@@ -112,9 +112,9 @@ if page == "Predict Readmission":
                                                  Num_Diagnoses, Num_Emergency_Visits, gender, admission_type, diagnosis, a1c_result)
             
             if prediction_1 == 1:
-                col4.success(f"Readmission Requirement : Required 🀄")
+                col4.error(f"Readmission Requirement : Required ❗")
             else:
-                col4.error(f"Readmission : Not Required ❗")
+                col4.success(f"Readmission : Not Required 🀄")
         except:
             col4.error("Enter valid values 🚨")
 

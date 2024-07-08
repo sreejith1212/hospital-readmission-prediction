@@ -1,0 +1,801 @@
+,Age,Gender,Admission_Type,Diagnosis,Num_Lab_Procedures,Num_Medications,Num_Outpatient_Visits,Num_Inpatient_Visits,Num_Emergency_Visits,Num_Diagnoses,A1C_Result,Age_Group,Num_Diagnoses_Group,Num_Medications_Group,Num_Lab_Procedures_Group,Readmitted
+29,81,Male,Elective,Heart Disease,4,14,3,4,4,8,Unknown,Old_Aged,High,Medium,Low,No
+535,30,Male,Urgent,Injury,48,8,2,3,1,7,Unknown,Middle_Aged,High,Low,High,Yes
+695,73,Female,Urgent,Heart Disease,47,17,3,0,2,9,Unknown,Old_Aged,High,Medium,High,Yes
+557,18,Other,Elective,Injury,28,20,4,2,2,2,Unknown,Young_Aged,Low,Medium,High,Yes
+836,43,Male,Emergency,Infection,44,10,4,3,1,7,Unknown,Middle_Aged,High,Low,High,No
+596,67,Male,Elective,Infection,38,6,3,2,4,6,Abnormal,Old_Aged,Medium,Low,High,Yes
+165,73,Other,Urgent,Infection,93,15,4,1,0,3,Normal,Old_Aged,Low,Medium,High,Yes
+918,62,Female,Emergency,Injury,33,3,0,4,3,7,Abnormal,Old_Aged,High,Low,High,Yes
+495,61,Female,Urgent,Diabetes,25,3,4,3,1,1,Unknown,Old_Aged,Low,Low,High,Yes
+824,73,Female,Elective,Injury,8,23,2,3,4,9,Normal,Old_Aged,High,High,Low,Yes
+65,70,Male,Emergency,Diabetes,42,29,3,2,1,6,Unknown,Old_Aged,Medium,High,High,Yes
+141,41,Other,Elective,Heart Disease,4,7,3,4,1,9,Abnormal,Middle_Aged,High,Low,Low,No
+925,64,Female,Urgent,Injury,70,7,2,4,4,6,Normal,Old_Aged,Medium,Low,High,No
+827,25,Other,Urgent,Infection,45,24,3,3,1,7,Abnormal,Young_Aged,High,High,High,No
+655,25,Female,Urgent,Injury,30,28,1,3,2,9,Unknown,Young_Aged,High,High,High,No
+331,80,Other,Urgent,Heart Disease,56,4,2,3,2,2,Normal,Old_Aged,Low,Low,High,No
+664,76,Female,Urgent,Heart Disease,46,23,4,4,0,1,Abnormal,Old_Aged,Low,High,High,Yes
+249,66,Female,Urgent,Heart Disease,88,26,0,3,0,8,Abnormal,Old_Aged,High,High,High,Yes
+907,78,Female,Elective,Heart Disease,53,14,1,0,2,8,Abnormal,Old_Aged,High,Medium,High,Yes
+708,48,Other,Urgent,Diabetes,13,15,2,3,3,7,Normal,Middle_Aged,High,Medium,Medium,Yes
+305,75,Female,Emergency,Diabetes,65,22,4,0,1,6,Unknown,Old_Aged,Medium,High,High,No
+734,55,Other,Emergency,Infection,62,18,4,2,4,9,Abnormal,Middle_Aged,High,Medium,High,Yes
+975,28,Female,Urgent,Infection,35,17,0,0,1,8,Abnormal,Young_Aged,High,Medium,High,No
+49,21,Other,Urgent,Heart Disease,84,22,1,4,1,9,Normal,Young_Aged,High,High,High,No
+896,50,Other,Elective,Diabetes,1,28,1,2,1,7,Abnormal,Middle_Aged,High,High,Low,Yes
+2,78,Female,Urgent,Heart Disease,75,29,4,0,3,5,Normal,Old_Aged,Medium,High,High,No
+544,47,Other,Emergency,Heart Disease,46,16,1,2,4,6,Normal,Middle_Aged,Medium,Medium,High,No
+350,84,Male,Emergency,Infection,57,8,0,0,0,6,Unknown,Old_Aged,Medium,Low,High,Yes
+904,66,Other,Emergency,Injury,7,14,4,1,2,6,Abnormal,Old_Aged,Medium,Medium,Low,No
+536,63,Female,Urgent,Injury,10,10,0,3,0,4,Unknown,Old_Aged,Medium,Low,Low,No
+344,18,Female,Elective,Infection,27,1,1,1,3,4,Unknown,Young_Aged,Medium,Low,High,Yes
+994,39,Other,Urgent,Infection,25,14,2,1,0,9,Unknown,Middle_Aged,High,Medium,High,No
+481,75,Female,Emergency,Heart Disease,73,4,4,3,0,5,Unknown,Old_Aged,Medium,Low,High,Yes
+575,51,Female,Emergency,Infection,18,20,3,3,1,4,Abnormal,Middle_Aged,Medium,Medium,Medium,No
+33,38,Female,Elective,Heart Disease,17,35,2,1,1,9,Unknown,Middle_Aged,High,High,Medium,Yes
+31,68,Female,Elective,Heart Disease,59,35,0,2,2,6,Normal,Old_Aged,Medium,High,High,No
+231,39,Other,Emergency,Diabetes,9,25,0,0,0,1,Normal,Middle_Aged,Low,High,Low,No
+963,24,Male,Urgent,Diabetes,95,27,4,4,4,2,Unknown,Young_Aged,Low,High,High,No
+192,33,Female,Emergency,Diabetes,84,5,4,0,1,3,Normal,Middle_Aged,Low,Low,High,No
+333,75,Other,Urgent,Injury,16,13,0,3,1,4,Abnormal,Old_Aged,Medium,Medium,Medium,No
+3,38,Male,Elective,Diabetes,77,11,2,3,4,9,Unknown,Middle_Aged,High,Medium,High,Yes
+204,37,Other,Elective,Injury,13,11,4,0,2,1,Abnormal,Middle_Aged,Low,Medium,Medium,Yes
+514,20,Male,Urgent,Infection,96,12,0,3,3,2,Normal,Young_Aged,Low,Medium,High,No
+799,23,Female,Elective,Heart Disease,78,13,0,0,3,7,Normal,Young_Aged,High,Medium,High,No
+306,80,Other,Emergency,Diabetes,69,29,4,1,4,3,Abnormal,Old_Aged,Low,High,High,No
+109,21,Male,Elective,Heart Disease,20,20,3,1,4,5,Unknown,Young_Aged,Medium,Medium,Medium,No
+430,45,Other,Elective,Injury,19,11,1,4,2,9,Unknown,Middle_Aged,High,Medium,Medium,Yes
+77,80,Male,Elective,Injury,10,12,1,0,0,2,Abnormal,Old_Aged,Low,Medium,Low,Yes
+84,58,Other,Elective,Diabetes,89,24,0,4,2,7,Unknown,Middle_Aged,High,High,High,No
+286,42,Female,Elective,Diabetes,83,4,2,0,0,1,Unknown,Middle_Aged,Low,Low,High,No
+82,50,Female,Elective,Diabetes,1,3,2,1,0,7,Normal,Middle_Aged,High,Low,Low,Yes
+991,57,Other,Elective,Diabetes,85,5,1,2,1,9,Unknown,Middle_Aged,High,Low,High,No
+789,40,Male,Elective,Injury,45,13,4,1,2,1,Unknown,Middle_Aged,Low,Medium,High,No
+894,42,Male,Elective,Diabetes,94,23,3,1,0,6,Normal,Middle_Aged,Medium,High,High,No
+398,43,Male,Emergency,Diabetes,69,20,1,3,1,3,Abnormal,Middle_Aged,Low,Medium,High,Yes
+323,72,Female,Elective,Heart Disease,44,20,2,3,3,7,Normal,Old_Aged,High,Medium,High,No
+519,41,Other,Urgent,Diabetes,69,24,3,0,2,5,Abnormal,Middle_Aged,Medium,High,High,Yes
+916,46,Other,Elective,Infection,84,2,0,0,0,3,Normal,Middle_Aged,Low,Low,High,Yes
+922,36,Other,Emergency,Diabetes,37,21,3,1,3,7,Abnormal,Middle_Aged,High,High,High,Yes
+5,20,Male,Elective,Injury,11,20,3,4,1,3,Unknown,Young_Aged,Low,Medium,Medium,No
+731,18,Female,Urgent,Diabetes,49,6,1,3,3,2,Unknown,Young_Aged,Low,Low,High,No
+465,25,Female,Urgent,Infection,22,6,1,0,1,1,Unknown,Young_Aged,Low,Low,High,Yes
+97,64,Male,Elective,Infection,18,8,2,2,1,4,Unknown,Old_Aged,Medium,Low,Medium,Yes
+266,71,Male,Emergency,Heart Disease,6,16,3,4,3,8,Unknown,Old_Aged,High,Medium,Low,Yes
+357,79,Male,Emergency,Infection,50,8,3,1,2,5,Normal,Old_Aged,Medium,Low,High,Yes
+868,80,Male,Urgent,Injury,40,16,0,2,2,5,Normal,Old_Aged,Medium,Medium,High,No
+798,68,Male,Elective,Heart Disease,54,7,0,3,1,5,Abnormal,Old_Aged,Medium,Low,High,Yes
+380,50,Female,Emergency,Heart Disease,24,18,2,2,3,3,Unknown,Middle_Aged,Low,Medium,High,No
+631,36,Other,Emergency,Infection,96,13,0,4,2,1,Abnormal,Middle_Aged,Low,Medium,High,Yes
+381,78,Other,Urgent,Infection,82,13,2,1,0,4,Unknown,Old_Aged,Medium,Medium,High,No
+490,73,Female,Emergency,Diabetes,27,28,3,1,3,8,Abnormal,Old_Aged,High,High,High,Yes
+118,45,Other,Elective,Infection,22,15,0,4,4,8,Unknown,Middle_Aged,High,Medium,High,No
+900,39,Male,Urgent,Diabetes,28,16,4,0,4,9,Abnormal,Middle_Aged,High,Medium,High,Yes
+250,34,Female,Emergency,Injury,66,27,3,2,0,3,Unknown,Middle_Aged,Low,High,High,Yes
+523,25,Female,Emergency,Infection,40,14,2,2,4,3,Normal,Young_Aged,Low,Medium,High,Yes
+9,47,Male,Emergency,Injury,41,24,4,0,0,3,Abnormal,Middle_Aged,Low,High,High,No
+196,65,Male,Urgent,Heart Disease,47,18,2,3,2,1,Unknown,Old_Aged,Low,Medium,High,Yes
+603,68,Female,Urgent,Diabetes,92,4,2,2,0,5,Unknown,Old_Aged,Medium,Low,High,No
+81,52,Other,Urgent,Injury,34,6,0,1,0,6,Unknown,Middle_Aged,Medium,Low,High,Yes
+783,57,Female,Urgent,Diabetes,57,28,1,0,0,8,Abnormal,Middle_Aged,High,High,High,No
+587,34,Other,Elective,Diabetes,54,20,2,4,0,6,Unknown,Middle_Aged,Medium,Medium,High,No
+797,56,Male,Emergency,Heart Disease,3,9,4,0,1,8,Unknown,Middle_Aged,High,Low,Low,No
+239,38,Female,Emergency,Injury,48,10,2,1,4,3,Unknown,Middle_Aged,Low,Low,High,No
+290,24,Male,Urgent,Heart Disease,58,25,3,0,1,7,Unknown,Young_Aged,High,High,High,Yes
+211,42,Female,Emergency,Injury,27,14,0,1,0,9,Normal,Middle_Aged,High,Medium,High,No
+717,79,Female,Elective,Diabetes,61,28,4,4,4,2,Unknown,Old_Aged,Low,High,High,No
+359,65,Other,Urgent,Infection,86,26,0,1,1,6,Unknown,Old_Aged,Medium,High,High,No
+449,26,Other,Emergency,Injury,59,9,3,1,3,9,Normal,Young_Aged,High,Low,High,Yes
+227,34,Female,Emergency,Injury,74,2,2,1,0,4,Unknown,Middle_Aged,Medium,Low,High,Yes
+950,68,Female,Elective,Heart Disease,27,15,1,2,3,8,Unknown,Old_Aged,High,Medium,High,Yes
+946,84,Female,Elective,Diabetes,97,25,0,4,0,6,Abnormal,Old_Aged,Medium,High,High,No
+796,68,Male,Emergency,Diabetes,83,11,1,1,2,6,Abnormal,Old_Aged,Medium,Medium,High,No
+501,38,Male,Urgent,Injury,27,1,0,1,4,4,Unknown,Middle_Aged,Medium,Low,High,No
+464,55,Male,Urgent,Infection,21,17,0,4,2,2,Unknown,Middle_Aged,Low,Medium,High,Yes
+362,40,Female,Urgent,Infection,94,13,3,1,3,4,Unknown,Middle_Aged,Medium,Medium,High,Yes
+468,62,Female,Emergency,Infection,25,6,4,2,1,1,Normal,Old_Aged,Low,Low,High,Yes
+935,20,Other,Emergency,Infection,6,11,1,1,3,8,Unknown,Young_Aged,High,Medium,Low,No
+428,36,Male,Urgent,Infection,54,11,2,1,2,9,Normal,Middle_Aged,High,Medium,High,Yes
+7,70,Female,Elective,Heart Disease,28,19,4,0,3,7,Normal,Old_Aged,High,Medium,High,Yes
+155,19,Other,Emergency,Heart Disease,37,12,3,4,3,7,Normal,Young_Aged,High,Medium,High,No
+541,83,Other,Urgent,Infection,59,3,0,1,0,3,Unknown,Old_Aged,Low,Low,High,Yes
+440,56,Other,Elective,Injury,79,6,1,4,2,7,Abnormal,Middle_Aged,High,Low,High,Yes
+482,37,Other,Elective,Heart Disease,46,26,2,4,4,1,Abnormal,Middle_Aged,Low,High,High,No
+422,30,Female,Emergency,Infection,39,12,2,1,4,9,Normal,Middle_Aged,High,Medium,High,Yes
+778,43,Female,Elective,Infection,76,15,3,3,2,7,Normal,Middle_Aged,High,Medium,High,No
+949,84,Male,Elective,Injury,48,15,1,4,2,2,Unknown,Old_Aged,Low,Medium,High,No
+334,72,Other,Emergency,Diabetes,83,10,2,0,1,7,Normal,Old_Aged,High,Low,High,Yes
+576,56,Female,Elective,Infection,98,22,3,4,1,3,Unknown,Middle_Aged,Low,High,High,Yes
+934,72,Other,Elective,Infection,48,27,1,2,0,6,Abnormal,Old_Aged,Medium,High,High,No
+567,34,Female,Elective,Heart Disease,61,25,0,3,3,6,Unknown,Middle_Aged,Medium,High,High,Yes
+594,81,Other,Elective,Diabetes,3,26,3,3,1,3,Abnormal,Old_Aged,Low,High,Low,Yes
+530,44,Male,Emergency,Infection,33,22,2,0,3,9,Unknown,Middle_Aged,High,High,High,Yes
+581,67,Male,Elective,Heart Disease,57,6,2,3,3,9,Abnormal,Old_Aged,High,Low,High,Yes
+707,20,Male,Elective,Infection,98,29,0,4,3,7,Normal,Young_Aged,High,High,High,No
+448,35,Male,Emergency,Infection,59,8,1,1,1,2,Unknown,Middle_Aged,Low,Low,High,Yes
+453,63,Male,Elective,Injury,65,11,1,4,4,8,Abnormal,Old_Aged,High,Medium,High,Yes
+228,50,Male,Elective,Diabetes,32,9,0,1,4,1,Unknown,Middle_Aged,Low,Low,High,Yes
+352,33,Other,Urgent,Diabetes,78,27,1,1,4,6,Unknown,Middle_Aged,Medium,High,High,No
+728,37,Male,Urgent,Diabetes,67,5,2,0,3,4,Unknown,Middle_Aged,Medium,Low,High,No
+212,35,Female,Urgent,Injury,51,24,1,2,2,2,Unknown,Middle_Aged,Low,High,High,Yes
+79,25,Male,Elective,Injury,54,22,3,3,1,7,Unknown,Young_Aged,High,High,High,No
+148,29,Female,Urgent,Infection,19,29,1,3,0,5,Normal,Young_Aged,Medium,High,Medium,Yes
+302,80,Male,Emergency,Heart Disease,49,22,2,2,3,2,Unknown,Old_Aged,Low,High,High,Yes
+628,67,Female,Elective,Injury,46,5,1,1,1,9,Abnormal,Old_Aged,High,Low,High,No
+777,22,Other,Elective,Heart Disease,6,15,2,2,1,1,Unknown,Young_Aged,Low,Medium,Low,Yes
+506,35,Female,Urgent,Heart Disease,43,1,3,2,2,9,Unknown,Middle_Aged,High,Low,High,No
+342,51,Other,Elective,Diabetes,75,4,4,0,2,1,Normal,Middle_Aged,Low,Low,High,No
+485,18,Male,Emergency,Heart Disease,6,26,4,2,4,1,Unknown,Young_Aged,Low,High,Low,No
+711,41,Male,Elective,Diabetes,93,27,4,3,1,3,Unknown,Middle_Aged,Low,High,High,Yes
+133,79,Female,Elective,Diabetes,71,23,0,1,3,7,Abnormal,Old_Aged,High,High,High,No
+703,79,Other,Urgent,Injury,47,14,4,4,1,9,Normal,Old_Aged,High,Medium,High,No
+311,66,Female,Urgent,Injury,64,25,0,0,1,2,Unknown,Old_Aged,Low,High,High,No
+722,68,Female,Elective,Diabetes,17,17,4,3,1,4,Unknown,Old_Aged,Medium,Medium,Medium,No
+629,78,Female,Elective,Diabetes,32,24,4,0,4,1,Normal,Old_Aged,Low,High,High,Yes
+0,69,Other,Emergency,Heart Disease,33,2,4,1,1,5,Unknown,Old_Aged,Medium,Low,High,Yes
+316,77,Male,Urgent,Heart Disease,80,3,1,2,2,4,Unknown,Old_Aged,Medium,Low,High,No
+706,26,Female,Elective,Infection,50,8,3,3,3,2,Unknown,Young_Aged,Low,Low,High,No
+547,82,Female,Elective,Diabetes,65,3,4,1,3,7,Normal,Old_Aged,High,Low,High,Yes
+872,32,Other,Elective,Diabetes,94,27,4,4,2,3,Unknown,Middle_Aged,Low,High,High,No
+532,34,Male,Emergency,Heart Disease,16,9,0,1,3,2,Unknown,Middle_Aged,Low,Low,Medium,No
+477,56,Other,Elective,Diabetes,83,22,2,4,4,6,Abnormal,Middle_Aged,Medium,High,High,Yes
+404,38,Female,Urgent,Heart Disease,91,15,4,1,4,1,Unknown,Middle_Aged,Low,Medium,High,Yes
+172,20,Male,Urgent,Diabetes,49,8,3,0,2,8,Abnormal,Young_Aged,High,Low,High,No
+125,45,Other,Urgent,Heart Disease,56,9,2,0,0,7,Unknown,Middle_Aged,High,Low,High,Yes
+394,63,Female,Elective,Heart Disease,69,10,1,3,1,1,Normal,Old_Aged,Low,Low,High,Yes
+420,34,Other,Urgent,Injury,43,8,4,2,1,9,Unknown,Middle_Aged,High,Low,High,No
+552,80,Other,Emergency,Infection,73,26,1,0,3,9,Unknown,Old_Aged,High,High,High,Yes
+903,66,Male,Urgent,Infection,27,10,0,1,0,8,Abnormal,Old_Aged,High,Low,High,No
+90,65,Female,Emergency,Heart Disease,94,17,3,1,4,2,Abnormal,Old_Aged,Low,Medium,High,Yes
+939,72,Female,Emergency,Injury,29,18,1,0,0,8,Abnormal,Old_Aged,High,Medium,High,Yes
+181,50,Female,Elective,Diabetes,57,29,4,2,3,3,Abnormal,Middle_Aged,Low,High,High,Yes
+274,83,Female,Emergency,Heart Disease,47,13,0,0,4,2,Abnormal,Old_Aged,Low,Medium,High,Yes
+895,69,Female,Urgent,Diabetes,61,25,4,2,1,1,Normal,Old_Aged,Low,High,High,No
+69,58,Other,Emergency,Infection,48,20,3,0,2,7,Abnormal,Middle_Aged,High,Medium,High,No
+291,74,Other,Emergency,Diabetes,33,13,0,3,2,7,Abnormal,Old_Aged,High,Medium,High,No
+131,18,Female,Elective,Infection,19,17,1,4,1,4,Unknown,Young_Aged,Medium,Medium,Medium,No
+300,83,Other,Urgent,Heart Disease,6,3,1,1,4,7,Unknown,Old_Aged,High,Low,Low,Yes
+424,36,Female,Urgent,Heart Disease,29,11,4,1,2,1,Abnormal,Middle_Aged,Low,Medium,High,No
+326,33,Other,Emergency,Diabetes,22,21,0,3,1,1,Unknown,Middle_Aged,Low,High,High,Yes
+144,69,Other,Elective,Diabetes,15,12,2,0,1,4,Normal,Old_Aged,Medium,Medium,Medium,Yes
+423,76,Female,Elective,Diabetes,91,1,0,3,1,7,Normal,Old_Aged,High,Low,High,Yes
+580,20,Other,Urgent,Injury,58,20,3,4,1,2,Normal,Young_Aged,Low,Medium,High,No
+135,44,Male,Elective,Heart Disease,71,8,1,1,4,7,Abnormal,Middle_Aged,High,Low,High,No
+450,75,Female,Elective,Infection,2,17,0,3,4,4,Unknown,Old_Aged,Medium,Medium,Low,No
+164,72,Other,Emergency,Injury,98,20,3,1,3,5,Normal,Old_Aged,Medium,Medium,High,No
+28,72,Female,Urgent,Diabetes,6,25,3,1,2,8,Normal,Old_Aged,High,High,Low,No
+773,77,Other,Emergency,Injury,66,26,0,0,2,1,Normal,Old_Aged,Low,High,High,No
+193,77,Male,Emergency,Diabetes,3,26,4,1,4,6,Abnormal,Old_Aged,Medium,High,Low,Yes
+388,57,Male,Elective,Heart Disease,29,8,2,3,1,7,Unknown,Middle_Aged,High,Low,High,No
+852,54,Other,Urgent,Diabetes,64,11,1,0,3,1,Normal,Middle_Aged,Low,Medium,High,No
+169,28,Male,Elective,Diabetes,67,5,0,4,0,5,Normal,Young_Aged,Medium,Low,High,Yes
+705,72,Male,Urgent,Heart Disease,29,15,1,0,1,7,Unknown,Old_Aged,High,Medium,High,No
+140,61,Other,Urgent,Heart Disease,78,28,3,3,1,8,Unknown,Old_Aged,High,High,High,Yes
+173,37,Male,Urgent,Diabetes,87,8,3,1,4,6,Normal,Middle_Aged,Medium,Low,High,Yes
+6,39,Female,Elective,Heart Disease,95,16,2,4,3,7,Unknown,Middle_Aged,High,Medium,High,Yes
+745,61,Female,Elective,Injury,54,15,1,1,3,9,Normal,Old_Aged,High,Medium,High,No
+478,84,Other,Emergency,Heart Disease,1,26,2,0,2,4,Abnormal,Old_Aged,Medium,High,Low,No
+73,82,Female,Urgent,Heart Disease,93,23,0,1,4,6,Abnormal,Old_Aged,Medium,High,High,Yes
+910,30,Male,Urgent,Infection,4,9,0,4,0,1,Unknown,Middle_Aged,Low,Low,Low,Yes
+813,44,Other,Emergency,Injury,62,6,3,2,1,4,Unknown,Middle_Aged,Medium,Low,High,Yes
+238,44,Male,Emergency,Heart Disease,68,15,0,3,0,9,Unknown,Middle_Aged,High,Medium,High,Yes
+145,79,Female,Elective,Diabetes,93,17,3,0,2,9,Abnormal,Old_Aged,High,Medium,High,No
+792,42,Male,Elective,Infection,64,22,1,1,3,2,Abnormal,Middle_Aged,Low,High,High,Yes
+234,68,Other,Elective,Infection,96,19,4,3,3,4,Unknown,Old_Aged,Medium,Medium,High,Yes
+220,31,Female,Elective,Injury,54,23,3,4,2,5,Unknown,Middle_Aged,Medium,High,High,No
+923,35,Other,Emergency,Infection,63,22,4,4,0,8,Unknown,Middle_Aged,High,High,High,No
+500,64,Other,Urgent,Heart Disease,73,28,4,2,1,1,Abnormal,Old_Aged,Low,High,High,Yes
+132,44,Other,Elective,Diabetes,60,15,3,4,2,8,Abnormal,Middle_Aged,High,Medium,High,Yes
+990,26,Other,Elective,Heart Disease,69,12,1,3,3,6,Unknown,Young_Aged,Medium,Medium,High,Yes
+774,47,Female,Emergency,Injury,96,14,3,3,2,4,Unknown,Middle_Aged,Medium,Medium,High,No
+185,28,Male,Urgent,Heart Disease,57,7,4,3,0,9,Normal,Young_Aged,High,Low,High,No
+41,19,Male,Elective,Diabetes,94,21,4,0,4,2,Unknown,Young_Aged,Low,High,High,Yes
+696,76,Female,Emergency,Infection,33,6,1,2,3,8,Unknown,Old_Aged,High,Low,High,No
+108,69,Male,Emergency,Heart Disease,26,20,3,2,0,6,Abnormal,Old_Aged,Medium,Medium,High,No
+588,64,Male,Elective,Infection,88,15,1,4,1,8,Unknown,Old_Aged,High,Medium,High,Yes
+56,67,Female,Emergency,Diabetes,37,1,1,2,4,8,Abnormal,Old_Aged,High,Low,High,Yes
+405,53,Other,Urgent,Injury,49,1,4,2,1,2,Unknown,Middle_Aged,Low,Low,High,No
+442,59,Other,Elective,Infection,10,18,3,2,3,9,Unknown,Middle_Aged,High,Medium,Low,No
+757,52,Female,Emergency,Injury,29,26,1,3,0,2,Unknown,Middle_Aged,Low,High,High,Yes
+997,75,Male,Urgent,Diabetes,29,13,3,1,4,8,Normal,Old_Aged,High,Medium,High,No
+24,79,Male,Urgent,Injury,87,17,4,2,4,4,Abnormal,Old_Aged,Medium,Medium,High,Yes
+467,34,Other,Urgent,Diabetes,30,24,4,4,2,5,Abnormal,Middle_Aged,Medium,High,High,Yes
+539,64,Female,Elective,Heart Disease,19,24,0,1,0,7,Abnormal,Old_Aged,High,High,Medium,Yes
+531,80,Female,Emergency,Diabetes,75,10,3,4,4,2,Unknown,Old_Aged,Low,Low,High,No
+618,33,Other,Urgent,Heart Disease,56,17,1,4,0,9,Unknown,Middle_Aged,High,Medium,High,Yes
+694,76,Female,Urgent,Diabetes,9,13,0,0,3,3,Unknown,Old_Aged,Low,Medium,Low,Yes
+926,83,Male,Emergency,Infection,21,23,2,4,4,9,Unknown,Old_Aged,High,High,High,Yes
+338,29,Male,Emergency,Diabetes,72,20,0,3,3,6,Unknown,Young_Aged,Medium,Medium,High,No
+51,53,Other,Emergency,Diabetes,86,22,1,2,3,2,Abnormal,Middle_Aged,Low,High,High,Yes
+507,64,Female,Elective,Infection,41,12,0,2,2,6,Normal,Old_Aged,Medium,Medium,High,Yes
+516,74,Male,Elective,Diabetes,47,9,3,3,0,5,Abnormal,Old_Aged,Medium,Low,High,Yes
+920,33,Male,Elective,Heart Disease,8,11,0,3,0,2,Normal,Middle_Aged,Low,Medium,Low,No
+781,59,Female,Urgent,Injury,79,27,0,0,3,2,Unknown,Middle_Aged,Low,High,High,No
+264,35,Other,Elective,Heart Disease,13,16,2,4,0,6,Normal,Middle_Aged,Medium,Medium,Medium,Yes
+817,27,Male,Emergency,Diabetes,31,21,0,2,1,8,Abnormal,Young_Aged,High,High,High,Yes
+710,53,Other,Emergency,Infection,34,29,3,4,2,9,Abnormal,Middle_Aged,High,High,High,No
+682,27,Other,Elective,Heart Disease,34,17,3,4,0,4,Normal,Young_Aged,Medium,Medium,High,No
+832,19,Female,Elective,Heart Disease,81,4,4,2,2,7,Normal,Young_Aged,High,Low,High,No
+518,33,Female,Emergency,Injury,97,16,0,2,0,2,Normal,Middle_Aged,Low,Medium,High,No
+447,52,Other,Emergency,Diabetes,70,22,2,4,4,5,Unknown,Middle_Aged,Medium,High,High,Yes
+18,66,Other,Emergency,Infection,62,19,1,0,1,1,Normal,Old_Aged,Low,Medium,High,No
+715,23,Other,Elective,Injury,49,24,1,3,1,4,Unknown,Young_Aged,Medium,High,High,Yes
+483,78,Female,Elective,Heart Disease,32,13,3,3,0,7,Normal,Old_Aged,High,Medium,High,No
+568,18,Female,Urgent,Heart Disease,58,2,0,2,3,6,Normal,Young_Aged,Medium,Low,High,Yes
+433,29,Male,Urgent,Heart Disease,66,26,3,4,2,7,Unknown,Young_Aged,High,High,High,No
+367,36,Female,Elective,Diabetes,13,25,2,1,2,1,Unknown,Middle_Aged,Low,High,Medium,No
+83,22,Male,Emergency,Diabetes,32,28,3,3,4,8,Abnormal,Young_Aged,High,High,High,No
+61,65,Other,Emergency,Infection,42,22,2,1,0,5,Abnormal,Old_Aged,Medium,High,High,No
+638,18,Female,Urgent,Heart Disease,97,2,0,0,3,3,Unknown,Young_Aged,Low,Low,High,No
+272,64,Female,Emergency,Diabetes,49,8,4,4,1,1,Unknown,Old_Aged,Low,Low,High,No
+285,67,Male,Urgent,Infection,18,22,2,1,1,3,Normal,Old_Aged,Low,High,Medium,No
+360,56,Other,Emergency,Diabetes,69,15,3,0,1,7,Abnormal,Middle_Aged,High,Medium,High,Yes
+354,74,Female,Urgent,Diabetes,59,23,4,0,2,1,Unknown,Old_Aged,Low,High,High,Yes
+456,59,Male,Elective,Diabetes,89,21,0,2,3,4,Normal,Middle_Aged,Medium,High,High,Yes
+278,50,Other,Elective,Infection,81,6,3,2,1,9,Unknown,Middle_Aged,High,Low,High,No
+12,81,Female,Emergency,Heart Disease,99,2,3,4,1,7,Abnormal,Old_Aged,High,Low,High,Yes
+182,57,Other,Urgent,Heart Disease,60,24,2,0,4,4,Unknown,Middle_Aged,Medium,High,High,Yes
+368,75,Male,Elective,Injury,84,29,1,0,0,8,Abnormal,Old_Aged,High,High,High,Yes
+881,52,Male,Elective,Infection,2,18,3,1,4,4,Abnormal,Middle_Aged,Medium,Medium,Low,No
+615,60,Male,Emergency,Injury,12,10,1,2,0,4,Unknown,Old_Aged,Medium,Low,Medium,Yes
+223,37,Other,Urgent,Injury,16,23,4,1,1,7,Unknown,Middle_Aged,High,High,Medium,No
+572,79,Other,Emergency,Infection,37,25,1,1,0,1,Normal,Old_Aged,Low,High,High,No
+970,77,Female,Elective,Diabetes,21,8,2,2,2,6,Unknown,Old_Aged,Medium,Low,High,No
+653,53,Other,Elective,Heart Disease,80,29,0,3,4,9,Unknown,Middle_Aged,High,High,High,No
+545,22,Female,Emergency,Injury,3,17,4,2,4,9,Unknown,Young_Aged,High,Medium,Low,No
+582,29,Female,Urgent,Infection,77,29,3,3,0,3,Normal,Young_Aged,Low,High,High,Yes
+633,22,Female,Elective,Heart Disease,36,29,4,2,4,8,Unknown,Young_Aged,High,High,High,No
+176,36,Female,Urgent,Infection,69,23,4,3,4,7,Unknown,Middle_Aged,High,High,High,Yes
+665,73,Male,Emergency,Diabetes,23,20,0,2,1,8,Unknown,Old_Aged,High,Medium,High,Yes
+673,45,Male,Elective,Diabetes,22,15,2,4,4,9,Normal,Middle_Aged,High,Medium,High,Yes
+585,22,Female,Elective,Diabetes,7,26,4,0,1,2,Abnormal,Young_Aged,Low,High,Low,No
+873,38,Other,Urgent,Injury,76,10,4,3,1,3,Normal,Middle_Aged,Low,Low,High,No
+393,29,Male,Elective,Diabetes,58,20,0,1,0,5,Unknown,Young_Aged,Medium,Medium,High,No
+163,49,Other,Elective,Heart Disease,36,10,3,0,2,1,Unknown,Middle_Aged,Low,Low,High,No
+248,81,Male,Emergency,Diabetes,81,20,3,3,1,9,Normal,Old_Aged,High,Medium,High,Yes
+634,59,Male,Emergency,Injury,49,5,4,3,4,2,Normal,Middle_Aged,Low,Low,High,Yes
+885,19,Other,Urgent,Diabetes,23,9,2,2,4,2,Unknown,Young_Aged,Low,Low,High,No
+669,35,Male,Emergency,Diabetes,66,23,0,0,1,9,Abnormal,Middle_Aged,High,High,High,No
+375,41,Female,Elective,Injury,19,7,4,0,4,1,Unknown,Middle_Aged,Low,Low,Medium,Yes
+412,40,Other,Elective,Injury,35,15,2,0,4,5,Abnormal,Middle_Aged,Medium,Medium,High,No
+74,26,Male,Emergency,Diabetes,67,27,2,1,1,8,Abnormal,Young_Aged,High,High,High,Yes
+113,46,Female,Urgent,Infection,75,11,1,4,2,2,Unknown,Middle_Aged,Low,Medium,High,No
+598,68,Other,Urgent,Infection,38,11,1,3,0,4,Unknown,Old_Aged,Medium,Medium,High,Yes
+961,65,Other,Emergency,Diabetes,91,27,1,0,3,9,Abnormal,Old_Aged,High,High,High,Yes
+390,61,Female,Urgent,Infection,17,20,2,2,0,6,Unknown,Old_Aged,Medium,Medium,Medium,Yes
+104,32,Other,Elective,Diabetes,68,29,0,0,0,5,Unknown,Middle_Aged,Medium,High,High,No
+114,53,Male,Elective,Injury,41,7,3,0,2,5,Unknown,Middle_Aged,Medium,Low,High,No
+417,30,Other,Urgent,Infection,38,25,1,4,2,2,Abnormal,Middle_Aged,Low,High,High,No
+525,77,Female,Urgent,Injury,61,25,1,0,4,5,Unknown,Old_Aged,Medium,High,High,No
+457,26,Female,Elective,Diabetes,10,19,0,3,2,6,Unknown,Young_Aged,Medium,Medium,Low,Yes
+409,66,Male,Urgent,Infection,10,2,1,4,2,8,Normal,Old_Aged,High,Low,Low,No
+92,79,Female,Urgent,Injury,99,2,2,3,4,1,Normal,Old_Aged,Low,Low,High,No
+930,21,Female,Elective,Diabetes,5,25,1,2,1,1,Abnormal,Young_Aged,Low,High,Low,No
+89,50,Other,Emergency,Diabetes,20,5,1,2,0,4,Unknown,Middle_Aged,Medium,Low,Medium,No
+336,40,Male,Elective,Heart Disease,82,17,4,1,3,8,Unknown,Middle_Aged,High,Medium,High,No
+988,76,Male,Emergency,Heart Disease,3,29,1,0,2,1,Normal,Old_Aged,Low,High,Low,Yes
+921,57,Other,Emergency,Diabetes,1,21,3,0,0,9,Unknown,Middle_Aged,High,High,Low,Yes
+933,46,Female,Urgent,Diabetes,50,22,3,0,4,9,Unknown,Middle_Aged,High,High,High,Yes
+605,46,Other,Emergency,Infection,71,18,2,1,0,3,Normal,Middle_Aged,Low,Medium,High,No
+593,55,Other,Elective,Diabetes,55,25,2,3,2,8,Abnormal,Middle_Aged,High,High,High,Yes
+611,51,Female,Elective,Injury,68,23,0,4,4,6,Abnormal,Middle_Aged,Medium,High,High,No
+94,61,Male,Elective,Diabetes,90,22,2,2,4,4,Unknown,Old_Aged,Medium,High,High,No
+11,19,Female,Emergency,Injury,68,14,2,4,2,5,Abnormal,Young_Aged,Medium,Medium,High,No
+396,52,Female,Emergency,Infection,62,21,3,4,1,5,Abnormal,Middle_Aged,Medium,High,High,No
+533,50,Male,Elective,Heart Disease,82,26,3,3,1,9,Normal,Middle_Aged,High,High,High,No
+43,61,Female,Elective,Diabetes,94,5,2,1,1,4,Normal,Old_Aged,Medium,Low,High,No
+42,77,Other,Urgent,Diabetes,96,12,3,4,3,6,Unknown,Old_Aged,Medium,Medium,High,Yes
+329,36,Male,Emergency,Infection,7,7,0,4,3,1,Normal,Middle_Aged,Low,Low,Low,No
+167,55,Male,Emergency,Diabetes,24,20,4,0,1,6,Unknown,Middle_Aged,Medium,Medium,High,Yes
+497,49,Male,Elective,Infection,15,8,0,0,2,9,Unknown,Middle_Aged,High,Low,Medium,No
+876,26,Female,Urgent,Injury,11,28,1,0,4,8,Normal,Young_Aged,High,High,Medium,No
+597,47,Male,Urgent,Diabetes,1,17,4,4,4,1,Abnormal,Middle_Aged,Low,Medium,Low,Yes
+756,55,Other,Urgent,Heart Disease,78,3,4,1,2,1,Unknown,Middle_Aged,Low,Low,High,No
+100,22,Female,Urgent,Heart Disease,84,11,3,1,3,6,Unknown,Young_Aged,Medium,Medium,High,No
+426,29,Male,Emergency,Infection,91,10,4,3,1,9,Unknown,Young_Aged,High,Low,High,Yes
+178,36,Other,Elective,Diabetes,53,11,2,3,3,6,Abnormal,Middle_Aged,Medium,Medium,High,No
+444,56,Female,Urgent,Infection,97,5,1,3,0,1,Normal,Middle_Aged,Low,Low,High,No
+416,72,Other,Emergency,Heart Disease,74,14,0,2,4,8,Abnormal,Old_Aged,High,Medium,High,No
+870,72,Female,Urgent,Injury,2,11,1,1,3,6,Normal,Old_Aged,Medium,Medium,Low,No
+882,80,Male,Emergency,Injury,50,17,4,0,3,4,Unknown,Old_Aged,Medium,Medium,High,Yes
+680,30,Male,Elective,Injury,10,21,0,2,4,6,Abnormal,Middle_Aged,Medium,High,Low,Yes
+177,84,Other,Elective,Infection,95,8,2,0,3,3,Abnormal,Old_Aged,Low,Low,High,No
+395,19,Male,Urgent,Infection,28,12,0,0,0,3,Normal,Young_Aged,Low,Medium,High,Yes
+911,68,Male,Urgent,Diabetes,96,25,2,2,4,9,Unknown,Old_Aged,High,High,High,Yes
+793,34,Other,Emergency,Infection,93,8,1,1,4,6,Normal,Middle_Aged,Medium,Low,High,No
+960,72,Female,Emergency,Heart Disease,67,26,3,2,2,4,Normal,Old_Aged,Medium,High,High,Yes
+684,35,Male,Elective,Infection,28,6,1,0,2,9,Normal,Middle_Aged,High,Low,High,No
+383,60,Male,Emergency,Injury,74,21,0,1,0,4,Unknown,Old_Aged,Medium,High,High,Yes
+956,33,Other,Urgent,Infection,91,4,1,3,3,6,Normal,Middle_Aged,Medium,Low,High,Yes
+751,80,Other,Elective,Heart Disease,86,17,3,3,4,3,Abnormal,Old_Aged,Low,Medium,High,Yes
+257,63,Female,Elective,Injury,39,12,4,2,4,5,Unknown,Old_Aged,Medium,Medium,High,No
+538,23,Male,Urgent,Infection,38,3,3,1,0,4,Unknown,Young_Aged,Medium,Low,High,No
+335,79,Male,Elective,Infection,51,18,3,0,4,5,Normal,Old_Aged,Medium,Medium,High,Yes
+15,50,Female,Emergency,Diabetes,64,5,0,4,4,8,Normal,Middle_Aged,High,Low,High,Yes
+324,57,Other,Elective,Diabetes,23,25,0,4,1,6,Unknown,Middle_Aged,Medium,High,High,No
+758,66,Other,Urgent,Diabetes,83,16,3,1,0,1,Unknown,Old_Aged,Low,Medium,High,No
+222,65,Male,Elective,Heart Disease,72,25,2,3,0,5,Abnormal,Old_Aged,Medium,High,High,Yes
+179,37,Female,Emergency,Infection,62,14,4,0,3,7,Abnormal,Middle_Aged,High,Medium,High,Yes
+983,26,Female,Emergency,Heart Disease,32,26,3,0,4,7,Unknown,Young_Aged,High,High,High,Yes
+22,32,Other,Elective,Injury,18,4,2,0,2,1,Normal,Middle_Aged,Low,Low,Medium,Yes
+356,64,Other,Urgent,Heart Disease,62,8,2,3,1,3,Abnormal,Old_Aged,Low,Low,High,No
+666,24,Male,Urgent,Injury,45,25,3,1,1,9,Unknown,Young_Aged,High,High,High,No
+861,18,Male,Elective,Diabetes,13,24,4,3,2,4,Normal,Young_Aged,Medium,High,Medium,Yes
+340,75,Male,Elective,Infection,12,17,1,1,2,2,Abnormal,Old_Aged,Low,Medium,Medium,Yes
+431,69,Other,Emergency,Diabetes,84,17,3,3,0,6,Abnormal,Old_Aged,Medium,Medium,High,No
+551,43,Female,Urgent,Diabetes,81,12,1,2,2,3,Unknown,Middle_Aged,Low,Medium,High,No
+833,44,Female,Urgent,Heart Disease,99,29,0,4,2,6,Unknown,Middle_Aged,Medium,High,High,No
+203,20,Other,Emergency,Injury,69,23,2,1,0,9,Unknown,Young_Aged,High,High,High,Yes
+630,68,Male,Elective,Infection,55,27,4,3,2,4,Abnormal,Old_Aged,Medium,High,High,No
+93,54,Other,Urgent,Heart Disease,91,4,1,0,1,3,Unknown,Middle_Aged,Low,Low,High,Yes
+558,38,Female,Emergency,Diabetes,97,12,1,1,3,9,Unknown,Middle_Aged,High,Medium,High,No
+68,77,Male,Elective,Heart Disease,72,18,1,1,0,3,Normal,Old_Aged,Low,Medium,High,No
+622,73,Female,Urgent,Diabetes,61,29,2,4,4,8,Unknown,Old_Aged,High,High,High,No
+284,43,Male,Elective,Heart Disease,68,14,1,1,2,6,Unknown,Middle_Aged,Medium,Medium,High,No
+844,64,Male,Emergency,Injury,29,20,2,3,1,9,Abnormal,Old_Aged,High,Medium,High,No
+434,42,Male,Emergency,Diabetes,30,29,1,1,1,7,Abnormal,Middle_Aged,High,High,High,Yes
+153,76,Female,Emergency,Heart Disease,15,18,4,3,0,7,Abnormal,Old_Aged,High,Medium,Medium,No
+75,18,Male,Emergency,Diabetes,13,11,4,2,1,1,Normal,Young_Aged,Low,Medium,Medium,Yes
+730,64,Other,Emergency,Diabetes,58,20,4,0,4,9,Unknown,Old_Aged,High,Medium,High,No
+446,22,Male,Elective,Infection,48,19,3,0,3,6,Abnormal,Young_Aged,Medium,Medium,High,No
+188,40,Other,Urgent,Injury,7,4,0,3,4,9,Unknown,Middle_Aged,High,Low,Low,Yes
+271,49,Other,Emergency,Infection,63,25,2,1,3,6,Normal,Middle_Aged,Medium,High,High,No
+236,25,Other,Emergency,Heart Disease,86,8,4,2,1,8,Abnormal,Young_Aged,High,Low,High,Yes
+487,79,Female,Emergency,Injury,38,9,2,1,1,3,Unknown,Old_Aged,Low,Low,High,No
+117,76,Other,Elective,Infection,17,27,4,0,1,6,Abnormal,Old_Aged,Medium,High,Medium,No
+943,25,Female,Emergency,Injury,2,26,2,4,3,9,Abnormal,Young_Aged,High,High,Low,No
+512,18,Male,Emergency,Diabetes,39,4,1,3,2,2,Unknown,Young_Aged,Low,Low,High,No
+825,32,Male,Urgent,Injury,73,5,0,1,2,2,Unknown,Middle_Aged,Low,Low,High,No
+591,83,Other,Emergency,Diabetes,79,21,3,1,4,3,Unknown,Old_Aged,Low,High,High,Yes
+126,45,Male,Elective,Infection,51,3,2,0,2,1,Unknown,Middle_Aged,Low,Low,High,Yes
+116,49,Male,Elective,Diabetes,65,13,0,0,4,3,Unknown,Middle_Aged,Low,Medium,High,Yes
+473,78,Other,Elective,Injury,7,5,2,0,2,2,Abnormal,Old_Aged,Low,Low,Low,No
+693,81,Other,Urgent,Diabetes,72,26,1,3,0,7,Normal,Old_Aged,High,High,High,No
+57,34,Female,Urgent,Injury,74,15,2,0,3,9,Abnormal,Middle_Aged,High,Medium,High,Yes
+863,38,Female,Emergency,Heart Disease,54,3,0,2,0,6,Unknown,Middle_Aged,Medium,Low,High,Yes
+912,73,Female,Emergency,Injury,23,14,3,1,2,3,Abnormal,Old_Aged,Low,Medium,High,No
+369,18,Female,Emergency,Heart Disease,54,16,3,3,1,7,Unknown,Young_Aged,High,Medium,High,No
+268,84,Female,Emergency,Injury,52,7,1,2,3,7,Normal,Old_Aged,High,Low,High,No
+46,52,Other,Emergency,Heart Disease,39,27,3,4,4,6,Unknown,Middle_Aged,Medium,High,High,No
+349,39,Female,Elective,Injury,5,26,0,0,3,8,Normal,Middle_Aged,High,High,Low,No
+195,18,Female,Elective,Heart Disease,86,4,3,4,3,1,Unknown,Young_Aged,Low,Low,High,Yes
+999,54,Male,Elective,Injury,43,28,2,0,4,8,Abnormal,Middle_Aged,High,High,High,Yes
+834,53,Other,Urgent,Diabetes,83,23,1,2,4,9,Normal,Middle_Aged,High,High,High,No
+736,28,Male,Emergency,Injury,43,4,4,2,2,9,Normal,Young_Aged,High,Low,High,Yes
+263,84,Other,Emergency,Diabetes,73,3,4,1,0,2,Normal,Old_Aged,Low,Low,High,Yes
+443,75,Male,Urgent,Infection,73,6,2,1,4,1,Unknown,Old_Aged,Low,Low,High,No
+675,74,Other,Emergency,Infection,30,1,2,3,0,6,Abnormal,Old_Aged,Medium,Low,High,Yes
+304,42,Other,Urgent,Diabetes,83,16,4,3,1,3,Unknown,Middle_Aged,Low,Medium,High,No
+341,18,Female,Urgent,Injury,53,22,2,1,1,1,Abnormal,Young_Aged,Low,High,High,No
+966,36,Male,Emergency,Diabetes,13,7,0,3,1,4,Normal,Middle_Aged,Medium,Low,Medium,No
+149,56,Other,Emergency,Injury,46,19,0,1,1,7,Abnormal,Middle_Aged,High,Medium,High,Yes
+124,23,Female,Emergency,Injury,11,24,1,3,2,7,Normal,Young_Aged,High,High,Medium,No
+786,49,Other,Urgent,Heart Disease,82,13,2,4,3,9,Abnormal,Middle_Aged,High,Medium,High,Yes
+50,76,Other,Urgent,Diabetes,88,10,4,3,4,5,Abnormal,Old_Aged,Medium,Low,High,Yes
+353,68,Other,Elective,Infection,69,13,0,3,2,1,Normal,Old_Aged,Low,Medium,High,No
+927,55,Female,Urgent,Heart Disease,96,17,2,2,1,4,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+142,76,Male,Emergency,Infection,23,21,1,4,0,3,Unknown,Old_Aged,Low,High,High,No
+470,53,Male,Urgent,Diabetes,65,2,4,3,2,4,Unknown,Middle_Aged,Medium,Low,High,No
+399,51,Female,Emergency,Diabetes,82,1,3,1,2,6,Normal,Middle_Aged,Medium,Low,High,Yes
+625,84,Female,Urgent,Heart Disease,88,13,4,0,0,5,Unknown,Old_Aged,Medium,Medium,High,Yes
+320,22,Female,Emergency,Diabetes,20,27,4,1,0,8,Unknown,Young_Aged,High,High,Medium,Yes
+19,76,Male,Urgent,Injury,76,21,4,3,3,1,Unknown,Old_Aged,Low,High,High,Yes
+809,53,Male,Elective,Injury,96,25,1,3,1,5,Abnormal,Middle_Aged,Medium,High,High,Yes
+790,80,Female,Elective,Diabetes,79,2,4,3,1,1,Abnormal,Old_Aged,Low,Low,High,Yes
+808,44,Male,Elective,Heart Disease,95,29,2,1,0,2,Normal,Middle_Aged,Low,High,High,No
+407,41,Other,Urgent,Diabetes,71,3,1,3,3,2,Abnormal,Middle_Aged,Low,Low,High,Yes
+537,52,Male,Elective,Heart Disease,82,19,3,4,1,6,Normal,Middle_Aged,Medium,Medium,High,Yes
+620,21,Other,Elective,Heart Disease,25,23,3,3,2,7,Normal,Young_Aged,High,High,High,No
+38,31,Other,Elective,Diabetes,8,35,3,3,4,7,Normal,Middle_Aged,High,High,Low,No
+175,53,Female,Emergency,Diabetes,23,24,2,0,4,9,Normal,Middle_Aged,High,High,High,No
+245,36,Female,Elective,Heart Disease,89,17,3,4,4,1,Unknown,Middle_Aged,Low,Medium,High,Yes
+828,22,Other,Elective,Diabetes,62,26,0,2,1,2,Unknown,Young_Aged,Low,High,High,No
+667,20,Female,Elective,Diabetes,17,12,2,4,2,9,Abnormal,Young_Aged,High,Medium,Medium,Yes
+754,32,Other,Emergency,Injury,51,20,1,0,1,6,Unknown,Middle_Aged,Medium,Medium,High,No
+858,58,Female,Emergency,Injury,76,19,4,4,0,4,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+154,19,Other,Elective,Diabetes,99,7,3,0,3,2,Unknown,Young_Aged,Low,Low,High,Yes
+287,41,Male,Emergency,Infection,43,28,3,0,4,4,Unknown,Middle_Aged,Medium,High,High,Yes
+602,47,Female,Elective,Infection,74,23,0,3,0,5,Abnormal,Middle_Aged,Medium,High,High,No
+569,68,Other,Emergency,Diabetes,60,3,2,0,4,8,Unknown,Old_Aged,High,Low,High,No
+743,40,Other,Elective,Heart Disease,16,12,4,4,4,1,Unknown,Middle_Aged,Low,Medium,Medium,Yes
+17,39,Male,Elective,Diabetes,90,5,1,3,4,4,Unknown,Middle_Aged,Medium,Low,High,Yes
+127,61,Other,Urgent,Infection,21,19,0,4,0,1,Unknown,Old_Aged,Low,Medium,High,No
+322,64,Other,Elective,Diabetes,68,5,3,3,2,2,Abnormal,Old_Aged,Low,Low,High,No
+255,54,Male,Emergency,Injury,1,9,2,2,1,8,Abnormal,Middle_Aged,High,Low,Low,No
+657,64,Female,Urgent,Heart Disease,86,9,3,4,0,6,Normal,Old_Aged,Medium,Low,High,Yes
+964,50,Other,Emergency,Injury,15,15,4,1,2,6,Unknown,Middle_Aged,Medium,Medium,Medium,Yes
+190,59,Female,Emergency,Diabetes,85,13,3,0,3,1,Abnormal,Middle_Aged,Low,Medium,High,No
+115,30,Female,Elective,Heart Disease,5,16,1,4,3,3,Unknown,Middle_Aged,Low,Medium,Low,No
+616,40,Female,Elective,Heart Disease,60,25,2,3,0,9,Unknown,Middle_Aged,High,High,High,No
+606,21,Female,Emergency,Injury,67,21,4,4,1,5,Unknown,Young_Aged,Medium,High,High,No
+180,69,Female,Elective,Injury,41,8,3,2,3,2,Normal,Old_Aged,Low,Low,High,No
+301,49,Male,Emergency,Injury,97,13,3,4,0,9,Unknown,Middle_Aged,High,Medium,High,No
+759,79,Female,Emergency,Diabetes,19,12,1,3,2,9,Unknown,Old_Aged,High,Medium,Medium,No
+712,23,Male,Elective,Diabetes,48,13,4,3,2,4,Abnormal,Young_Aged,Medium,Medium,High,No
+723,62,Male,Urgent,Diabetes,71,23,0,1,2,1,Unknown,Old_Aged,Low,High,High,Yes
+685,51,Other,Urgent,Diabetes,11,3,0,0,3,2,Abnormal,Middle_Aged,Low,Low,Medium,No
+979,37,Other,Emergency,Diabetes,78,4,3,3,0,4,Abnormal,Middle_Aged,Medium,Low,High,No
+517,29,Other,Urgent,Injury,63,15,1,4,1,8,Unknown,Young_Aged,High,Medium,High,Yes
+984,70,Male,Urgent,Heart Disease,55,16,4,2,4,2,Normal,Old_Aged,Low,Medium,High,Yes
+45,64,Male,Elective,Heart Disease,43,9,1,1,0,2,Normal,Old_Aged,Low,Low,High,Yes
+909,18,Female,Emergency,Diabetes,79,23,1,2,2,6,Normal,Young_Aged,Medium,High,High,No
+157,18,Female,Emergency,Injury,67,2,4,3,4,2,Abnormal,Young_Aged,Low,Low,High,Yes
+851,22,Female,Emergency,Heart Disease,21,11,1,3,1,3,Unknown,Young_Aged,Low,Medium,High,No
+171,76,Female,Urgent,Heart Disease,57,8,4,1,2,9,Abnormal,Old_Aged,High,Low,High,Yes
+16,75,Female,Urgent,Diabetes,59,27,3,1,4,1,Unknown,Old_Aged,Low,High,High,No
+511,48,Other,Elective,Diabetes,40,18,0,1,4,6,Abnormal,Middle_Aged,Medium,Medium,High,No
+48,67,Male,Emergency,Heart Disease,59,9,3,1,1,6,Abnormal,Old_Aged,Medium,Low,High,Yes
+971,19,Male,Elective,Heart Disease,54,28,2,0,1,1,Normal,Young_Aged,Low,High,High,No
+940,49,Male,Urgent,Injury,71,3,4,2,0,2,Abnormal,Middle_Aged,Low,Low,High,Yes
+515,33,Female,Emergency,Diabetes,52,27,0,1,2,1,Normal,Middle_Aged,Low,High,High,Yes
+952,51,Female,Urgent,Heart Disease,12,10,3,1,1,4,Abnormal,Middle_Aged,Medium,Low,Medium,No
+480,30,Male,Urgent,Infection,36,11,3,0,1,1,Normal,Middle_Aged,Low,Medium,High,No
+283,59,Other,Urgent,Heart Disease,96,26,2,0,4,6,Abnormal,Middle_Aged,Medium,High,High,Yes
+718,74,Other,Urgent,Injury,29,6,3,1,2,3,Unknown,Old_Aged,Low,Low,High,Yes
+877,69,Female,Urgent,Infection,79,12,0,4,0,8,Abnormal,Old_Aged,High,Medium,High,Yes
+225,24,Male,Elective,Diabetes,31,21,2,3,1,7,Unknown,Young_Aged,High,High,High,No
+26,79,Male,Elective,Diabetes,82,20,4,4,3,3,Normal,Old_Aged,Low,Medium,High,No
+954,49,Male,Emergency,Diabetes,61,28,1,2,3,8,Unknown,Middle_Aged,High,High,High,Yes
+437,40,Other,Elective,Heart Disease,22,8,1,3,3,9,Unknown,Middle_Aged,High,Low,High,No
+951,25,Male,Emergency,Injury,20,16,1,1,4,7,Normal,Young_Aged,High,Medium,Medium,No
+364,51,Male,Elective,Heart Disease,39,5,3,1,0,1,Unknown,Middle_Aged,Low,Low,High,No
+229,65,Male,Elective,Injury,59,22,1,0,4,8,Normal,Old_Aged,High,High,High,Yes
+37,77,Female,Elective,Injury,34,35,0,4,0,9,Unknown,Old_Aged,High,High,High,Yes
+965,40,Female,Elective,Injury,16,8,1,2,0,1,Unknown,Middle_Aged,Low,Low,Medium,Yes
+374,49,Other,Urgent,Injury,87,17,2,1,4,2,Abnormal,Middle_Aged,Low,Medium,High,No
+469,21,Male,Elective,Heart Disease,28,28,1,4,1,4,Normal,Young_Aged,Medium,High,High,No
+967,36,Other,Emergency,Infection,35,15,2,2,4,8,Abnormal,Middle_Aged,High,Medium,High,Yes
+850,60,Female,Elective,Infection,3,10,3,0,2,4,Unknown,Old_Aged,Medium,Low,Low,Yes
+704,41,Male,Emergency,Infection,65,14,0,2,3,9,Normal,Middle_Aged,High,Medium,High,Yes
+841,55,Other,Urgent,Injury,9,9,4,0,1,5,Abnormal,Middle_Aged,Medium,Low,Low,Yes
+194,19,Male,Elective,Heart Disease,51,22,2,1,0,2,Abnormal,Young_Aged,Low,High,High,Yes
+854,26,Female,Urgent,Diabetes,36,4,2,0,2,6,Unknown,Young_Aged,Medium,Low,High,No
+864,53,Female,Urgent,Infection,16,22,4,2,1,2,Unknown,Middle_Aged,Low,High,Medium,Yes
+503,36,Male,Emergency,Diabetes,19,18,0,0,4,6,Normal,Middle_Aged,Medium,Medium,Medium,Yes
+969,46,Other,Urgent,Heart Disease,59,14,1,3,3,9,Abnormal,Middle_Aged,High,Medium,High,No
+830,64,Other,Emergency,Heart Disease,96,14,2,1,2,6,Unknown,Old_Aged,Medium,Medium,High,Yes
+579,71,Other,Urgent,Heart Disease,11,1,2,1,2,3,Abnormal,Old_Aged,Low,Low,Medium,No
+968,53,Male,Urgent,Injury,75,23,3,4,2,5,Unknown,Middle_Aged,Medium,High,High,No
+162,49,Other,Elective,Diabetes,61,24,1,1,3,5,Unknown,Middle_Aged,Medium,High,High,No
+908,66,Female,Urgent,Injury,79,26,0,4,2,7,Unknown,Old_Aged,High,High,High,No
+152,73,Male,Emergency,Diabetes,68,2,3,2,1,2,Abnormal,Old_Aged,Low,Low,High,No
+801,24,Female,Urgent,Injury,40,8,1,3,4,4,Abnormal,Young_Aged,Medium,Low,High,Yes
+993,42,Female,Urgent,Heart Disease,83,16,0,1,4,5,Unknown,Middle_Aged,Medium,Medium,High,Yes
+755,41,Female,Emergency,Infection,71,4,0,4,0,2,Unknown,Middle_Aged,Low,Low,High,No
+111,32,Male,Elective,Heart Disease,10,16,0,4,4,3,Unknown,Middle_Aged,Low,Medium,Low,Yes
+226,84,Other,Urgent,Infection,42,24,3,3,2,7,Unknown,Old_Aged,High,High,High,No
+688,59,Other,Elective,Heart Disease,47,8,4,2,4,7,Unknown,Middle_Aged,High,Low,High,Yes
+103,26,Male,Urgent,Infection,82,8,2,4,3,4,Unknown,Young_Aged,Medium,Low,High,No
+421,79,Female,Urgent,Heart Disease,55,27,3,1,0,3,Normal,Old_Aged,Low,High,High,Yes
+419,47,Female,Elective,Heart Disease,26,8,1,1,3,3,Abnormal,Middle_Aged,Low,Low,High,No
+750,82,Male,Urgent,Diabetes,93,3,3,2,2,3,Normal,Old_Aged,Low,Low,High,No
+586,74,Female,Emergency,Infection,61,14,1,1,1,1,Unknown,Old_Aged,Low,Medium,High,No
+780,21,Female,Urgent,Heart Disease,36,8,0,3,1,4,Abnormal,Young_Aged,Medium,Low,High,Yes
+672,81,Other,Elective,Diabetes,94,5,2,4,1,7,Unknown,Old_Aged,High,Low,High,Yes
+119,83,Female,Urgent,Injury,98,24,1,0,0,2,Abnormal,Old_Aged,Low,High,High,Yes
+53,62,Female,Elective,Diabetes,86,1,1,0,4,9,Normal,Old_Aged,High,Low,High,Yes
+151,20,Other,Emergency,Infection,91,11,4,3,4,1,Normal,Young_Aged,Low,Medium,High,Yes
+403,53,Female,Emergency,Heart Disease,49,22,1,2,0,8,Unknown,Middle_Aged,High,High,High,No
+945,74,Other,Emergency,Infection,75,6,1,3,0,3,Unknown,Old_Aged,Low,Low,High,No
+207,50,Female,Urgent,Infection,50,5,2,2,2,5,Normal,Middle_Aged,Medium,Low,High,Yes
+658,73,Female,Emergency,Diabetes,73,7,4,1,0,8,Abnormal,Old_Aged,High,Low,High,Yes
+843,40,Other,Elective,Heart Disease,6,10,3,2,4,2,Normal,Middle_Aged,Low,Low,Low,Yes
+762,26,Female,Elective,Heart Disease,45,29,2,2,3,3,Unknown,Young_Aged,Low,High,High,No
+8,19,Male,Urgent,Infection,70,23,1,2,4,6,Normal,Young_Aged,Medium,High,High,No
+807,50,Male,Emergency,Diabetes,75,10,4,2,0,3,Unknown,Middle_Aged,Low,Low,High,No
+36,21,Female,Urgent,Injury,66,35,3,0,2,1,Normal,Young_Aged,Low,High,High,No
+452,24,Male,Elective,Injury,68,19,4,3,1,5,Unknown,Young_Aged,Medium,Medium,High,No
+651,78,Other,Emergency,Heart Disease,76,8,4,3,0,6,Normal,Old_Aged,Medium,Low,High,No
+253,63,Male,Emergency,Heart Disease,39,13,2,2,2,3,Unknown,Old_Aged,Low,Medium,High,No
+303,68,Other,Urgent,Injury,40,2,2,1,3,6,Normal,Old_Aged,Medium,Low,High,No
+746,19,Female,Urgent,Diabetes,28,19,2,2,3,8,Normal,Young_Aged,High,Medium,High,No
+571,21,Other,Emergency,Infection,36,21,2,0,1,9,Unknown,Young_Aged,High,High,High,No
+623,42,Male,Elective,Injury,63,5,0,4,1,3,Unknown,Middle_Aged,Low,Low,High,No
+732,31,Male,Urgent,Heart Disease,53,6,4,3,2,5,Unknown,Middle_Aged,Medium,Low,High,Yes
+891,68,Other,Emergency,Injury,67,5,0,1,0,3,Normal,Old_Aged,Low,Low,High,No
+262,50,Female,Emergency,Diabetes,93,25,4,2,1,9,Unknown,Middle_Aged,High,High,High,Yes
+610,34,Other,Urgent,Injury,35,8,4,4,4,8,Abnormal,Middle_Aged,High,Low,High,Yes
+297,33,Female,Emergency,Diabetes,59,21,3,4,2,8,Unknown,Middle_Aged,High,High,High,No
+414,54,Female,Emergency,Injury,2,1,1,1,0,9,Abnormal,Middle_Aged,High,Low,Low,No
+150,19,Female,Elective,Heart Disease,28,14,1,2,0,8,Unknown,Young_Aged,High,Medium,High,No
+788,55,Other,Emergency,Diabetes,77,28,0,1,1,4,Normal,Middle_Aged,Medium,High,High,Yes
+640,29,Other,Emergency,Injury,61,8,0,2,0,5,Unknown,Young_Aged,Medium,Low,High,Yes
+889,60,Male,Urgent,Heart Disease,62,29,0,2,2,6,Unknown,Old_Aged,Medium,High,High,Yes
+550,28,Female,Emergency,Diabetes,51,21,1,0,2,9,Abnormal,Young_Aged,High,High,High,Yes
+886,24,Other,Elective,Injury,18,23,4,2,2,9,Normal,Young_Aged,High,High,Medium,Yes
+488,80,Other,Urgent,Injury,17,4,1,1,2,1,Normal,Old_Aged,Low,Low,Medium,No
+147,69,Other,Urgent,Injury,41,10,2,4,3,3,Unknown,Old_Aged,Low,Low,High,No
+146,75,Other,Emergency,Infection,8,17,3,0,2,7,Abnormal,Old_Aged,High,Medium,Low,No
+720,25,Female,Elective,Diabetes,88,22,4,0,1,8,Abnormal,Young_Aged,High,High,High,Yes
+931,18,Male,Elective,Heart Disease,60,10,0,3,2,4,Unknown,Young_Aged,Medium,Low,High,No
+739,23,Female,Urgent,Infection,79,14,0,3,3,9,Abnormal,Young_Aged,High,Medium,High,Yes
+659,31,Female,Emergency,Infection,29,26,4,0,4,9,Unknown,Middle_Aged,High,High,High,Yes
+348,80,Male,Elective,Diabetes,97,24,1,4,2,8,Unknown,Old_Aged,High,High,High,Yes
+463,54,Male,Urgent,Heart Disease,48,27,0,4,0,7,Unknown,Middle_Aged,High,High,High,No
+325,69,Female,Urgent,Heart Disease,2,9,1,1,0,5,Unknown,Old_Aged,Medium,Low,Low,No
+186,74,Female,Urgent,Infection,10,28,4,3,1,5,Abnormal,Old_Aged,Medium,High,Low,No
+123,74,Other,Urgent,Diabetes,69,23,3,0,3,1,Normal,Old_Aged,Low,High,High,No
+853,48,Other,Elective,Heart Disease,90,17,1,2,2,5,Normal,Middle_Aged,Medium,Medium,High,No
+608,73,Male,Emergency,Heart Disease,84,3,1,1,3,8,Normal,Old_Aged,High,Low,High,No
+143,49,Female,Elective,Heart Disease,84,23,0,1,1,4,Normal,Middle_Aged,Medium,High,High,Yes
+958,71,Female,Emergency,Heart Disease,61,22,3,4,4,1,Abnormal,Old_Aged,Low,High,High,No
+197,29,Male,Urgent,Injury,68,6,2,3,0,5,Normal,Young_Aged,Medium,Low,High,Yes
+609,34,Other,Emergency,Heart Disease,83,22,0,0,2,4,Unknown,Middle_Aged,Medium,High,High,No
+279,26,Other,Elective,Injury,67,19,2,1,0,8,Unknown,Young_Aged,High,Medium,High,No
+293,62,Male,Emergency,Diabetes,34,6,2,1,0,4,Abnormal,Old_Aged,Medium,Low,High,Yes
+400,24,Female,Elective,Injury,90,25,3,2,0,5,Normal,Young_Aged,Medium,High,High,Yes
+122,79,Female,Emergency,Diabetes,68,21,0,3,3,1,Abnormal,Old_Aged,Low,High,High,Yes
+183,56,Other,Elective,Injury,54,28,3,1,1,6,Unknown,Middle_Aged,Medium,High,High,Yes
+202,65,Male,Urgent,Infection,41,2,3,0,2,2,Abnormal,Old_Aged,Low,Low,High,Yes
+438,33,Female,Urgent,Infection,67,23,3,0,4,9,Unknown,Middle_Aged,High,High,High,Yes
+246,21,Male,Emergency,Infection,51,9,3,3,3,1,Normal,Young_Aged,Low,Low,High,No
+415,29,Other,Emergency,Injury,24,13,4,4,1,2,Unknown,Young_Aged,Low,Medium,High,No
+932,25,Male,Emergency,Infection,46,18,3,1,0,7,Abnormal,Young_Aged,High,Medium,High,No
+765,18,Male,Emergency,Diabetes,11,7,3,0,4,2,Abnormal,Young_Aged,Low,Low,Medium,Yes
+906,80,Female,Urgent,Injury,74,25,4,3,1,3,Unknown,Old_Aged,Low,High,High,Yes
+835,53,Male,Urgent,Injury,64,6,3,4,1,9,Normal,Middle_Aged,High,Low,High,Yes
+887,51,Male,Urgent,Injury,62,10,1,4,2,9,Unknown,Middle_Aged,High,Low,High,Yes
+129,79,Male,Urgent,Infection,76,5,1,1,2,5,Abnormal,Old_Aged,Medium,Low,High,No
+637,38,Other,Urgent,Heart Disease,80,16,3,4,1,4,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+402,46,Female,Emergency,Diabetes,41,9,1,4,1,6,Abnormal,Middle_Aged,Medium,Low,High,Yes
+784,56,Male,Emergency,Injury,49,16,3,3,2,8,Normal,Middle_Aged,High,Medium,High,No
+770,81,Male,Urgent,Diabetes,18,4,2,3,3,7,Abnormal,Old_Aged,High,Low,Medium,No
+735,54,Male,Emergency,Injury,17,18,3,2,1,5,Abnormal,Middle_Aged,Medium,Medium,Medium,Yes
+913,79,Male,Urgent,Injury,70,3,1,3,3,5,Unknown,Old_Aged,Medium,Low,High,No
+219,50,Male,Emergency,Diabetes,85,1,3,0,3,4,Abnormal,Middle_Aged,Medium,Low,High,No
+641,63,Female,Emergency,Heart Disease,9,28,1,0,4,1,Normal,Old_Aged,Low,High,Low,No
+915,47,Other,Elective,Heart Disease,84,16,2,3,3,7,Unknown,Middle_Aged,High,Medium,High,Yes
+752,34,Other,Urgent,Diabetes,80,3,0,1,4,7,Abnormal,Middle_Aged,High,Low,High,Yes
+806,46,Male,Emergency,Diabetes,60,7,2,1,4,7,Normal,Middle_Aged,High,Low,High,Yes
+919,47,Other,Emergency,Injury,28,11,0,0,4,8,Unknown,Middle_Aged,High,Medium,High,No
+624,84,Other,Urgent,Infection,52,26,4,0,3,1,Unknown,Old_Aged,Low,High,High,Yes
+874,64,Other,Urgent,Diabetes,10,3,0,4,0,5,Normal,Old_Aged,Medium,Low,Low,No
+760,77,Male,Elective,Heart Disease,66,8,2,1,1,8,Abnormal,Old_Aged,High,Low,High,Yes
+386,82,Other,Emergency,Heart Disease,90,23,3,4,1,6,Normal,Old_Aged,Medium,High,High,Yes
+972,18,Other,Urgent,Heart Disease,75,12,3,1,1,6,Unknown,Young_Aged,Medium,Medium,High,No
+509,31,Other,Elective,Diabetes,50,24,2,3,1,2,Unknown,Middle_Aged,Low,High,High,No
+267,75,Other,Elective,Injury,84,23,1,0,0,7,Abnormal,Old_Aged,High,High,High,No
+819,55,Female,Elective,Infection,61,7,3,3,1,8,Unknown,Middle_Aged,High,Low,High,Yes
+441,70,Other,Emergency,Infection,27,22,0,4,0,2,Unknown,Old_Aged,Low,High,High,Yes
+496,62,Female,Elective,Heart Disease,28,14,2,4,3,4,Unknown,Old_Aged,Medium,Medium,High,Yes
+112,60,Female,Emergency,Diabetes,59,14,4,2,0,3,Normal,Old_Aged,Low,Medium,High,No
+691,69,Other,Urgent,Injury,28,17,2,1,2,1,Unknown,Old_Aged,Low,Medium,High,No
+232,47,Female,Elective,Infection,81,16,0,3,0,5,Normal,Middle_Aged,Medium,Medium,High,Yes
+869,71,Male,Elective,Injury,59,23,4,3,2,8,Abnormal,Old_Aged,High,High,High,Yes
+607,27,Male,Elective,Heart Disease,47,28,2,1,4,4,Unknown,Young_Aged,Medium,High,High,No
+671,32,Female,Elective,Infection,18,8,4,0,3,5,Abnormal,Middle_Aged,Medium,Low,Medium,Yes
+373,19,Male,Emergency,Diabetes,14,18,4,1,3,6,Unknown,Young_Aged,Medium,Medium,Medium,Yes
+981,54,Female,Elective,Diabetes,49,8,4,1,0,4,Unknown,Middle_Aged,Medium,Low,High,Yes
+842,23,Male,Urgent,Injury,92,5,2,4,0,4,Abnormal,Young_Aged,Medium,Low,High,Yes
+233,55,Other,Urgent,Injury,11,18,1,1,0,8,Unknown,Middle_Aged,High,Medium,Medium,No
+785,31,Female,Emergency,Injury,45,4,3,1,3,6,Normal,Middle_Aged,Medium,Low,High,Yes
+676,34,Female,Elective,Diabetes,81,25,0,3,2,4,Normal,Middle_Aged,Medium,High,High,No
+317,25,Male,Urgent,Injury,43,27,2,3,4,9,Abnormal,Young_Aged,High,High,High,No
+648,73,Male,Emergency,Diabetes,42,26,2,1,3,1,Abnormal,Old_Aged,Low,High,High,No
+410,53,Other,Urgent,Heart Disease,98,16,4,0,1,8,Normal,Middle_Aged,High,Medium,High,No
+898,46,Female,Urgent,Heart Disease,45,13,0,4,2,7,Unknown,Middle_Aged,High,Medium,High,No
+709,57,Male,Emergency,Diabetes,1,22,0,0,1,5,Normal,Middle_Aged,Medium,High,Low,Yes
+358,33,Female,Elective,Injury,19,27,0,2,2,1,Normal,Middle_Aged,Low,High,Medium,Yes
+258,70,Other,Elective,Heart Disease,57,6,3,4,1,9,Unknown,Old_Aged,High,Low,High,Yes
+744,27,Other,Elective,Infection,25,23,4,0,4,1,Normal,Young_Aged,Low,High,High,No
+627,49,Male,Emergency,Infection,55,23,4,4,1,6,Abnormal,Middle_Aged,Medium,High,High,No
+632,38,Male,Emergency,Injury,5,6,3,2,1,1,Abnormal,Middle_Aged,Low,Low,Low,Yes
+282,56,Male,Urgent,Infection,32,28,2,1,3,6,Abnormal,Middle_Aged,Medium,High,High,No
+376,29,Male,Elective,Diabetes,54,13,2,4,0,1,Unknown,Young_Aged,Low,Medium,High,Yes
+384,29,Female,Emergency,Infection,57,21,1,4,2,9,Normal,Young_Aged,High,High,High,No
+224,25,Male,Elective,Injury,59,10,1,4,1,9,Unknown,Young_Aged,High,Low,High,No
+953,52,Other,Emergency,Injury,43,12,2,4,0,2,Unknown,Middle_Aged,Low,Medium,High,No
+814,72,Male,Elective,Heart Disease,49,18,2,2,3,9,Abnormal,Old_Aged,High,Medium,High,Yes
+472,36,Male,Elective,Infection,68,23,1,1,4,9,Unknown,Middle_Aged,High,High,High,Yes
+347,81,Other,Urgent,Infection,6,17,0,4,0,7,Normal,Old_Aged,High,Medium,Low,Yes
+505,74,Female,Elective,Infection,17,8,4,4,4,3,Unknown,Old_Aged,Low,Low,Medium,Yes
+639,22,Female,Elective,Heart Disease,85,1,1,4,2,4,Unknown,Young_Aged,Medium,Low,High,Yes
+987,47,Female,Elective,Heart Disease,99,22,1,0,3,1,Normal,Middle_Aged,Low,High,High,No
+928,68,Female,Emergency,Diabetes,35,2,0,1,4,5,Abnormal,Old_Aged,Medium,Low,High,Yes
+905,37,Other,Emergency,Heart Disease,22,10,0,0,3,2,Abnormal,Middle_Aged,Low,Low,High,Yes
+619,25,Male,Urgent,Injury,23,8,1,0,2,6,Unknown,Young_Aged,Medium,Low,High,No
+855,68,Female,Urgent,Heart Disease,86,4,1,0,3,2,Abnormal,Old_Aged,Low,Low,High,Yes
+803,59,Female,Urgent,Diabetes,55,24,1,1,3,9,Abnormal,Middle_Aged,High,High,High,No
+645,44,Female,Emergency,Injury,22,12,0,1,0,1,Normal,Middle_Aged,Low,Medium,High,Yes
+846,29,Male,Urgent,Heart Disease,17,16,4,4,3,8,Abnormal,Young_Aged,High,Medium,Medium,No
+556,50,Other,Emergency,Heart Disease,60,18,3,2,0,2,Unknown,Middle_Aged,Low,Medium,High,Yes
+957,54,Other,Emergency,Diabetes,96,7,0,1,2,7,Unknown,Middle_Aged,High,Low,High,Yes
+577,43,Female,Elective,Injury,63,21,2,3,4,6,Unknown,Middle_Aged,Medium,High,High,No
+795,70,Female,Emergency,Diabetes,67,15,0,3,3,1,Unknown,Old_Aged,Low,Medium,High,No
+85,45,Other,Emergency,Injury,93,26,3,3,0,6,Normal,Middle_Aged,Medium,High,High,Yes
+242,81,Other,Emergency,Infection,21,23,4,1,0,6,Unknown,Old_Aged,Medium,High,High,No
+698,70,Female,Emergency,Diabetes,97,16,3,3,4,5,Abnormal,Old_Aged,Medium,Medium,High,No
+159,19,Male,Emergency,Injury,27,20,4,2,3,4,Unknown,Young_Aged,Medium,Medium,High,Yes
+524,75,Other,Urgent,Diabetes,75,13,0,2,1,6,Unknown,Old_Aged,Medium,Medium,High,No
+35,35,Female,Elective,Infection,80,35,0,4,0,7,Abnormal,Middle_Aged,High,High,High,No
+540,42,Female,Urgent,Infection,36,5,3,0,2,1,Normal,Middle_Aged,Low,Low,High,No
+170,33,Male,Elective,Infection,34,25,0,2,4,2,Unknown,Middle_Aged,Low,High,High,Yes
+654,18,Female,Emergency,Heart Disease,67,22,2,0,4,6,Unknown,Young_Aged,Medium,High,High,Yes
+890,76,Other,Emergency,Infection,38,15,2,4,3,8,Unknown,Old_Aged,High,Medium,High,Yes
+857,57,Female,Urgent,Injury,42,9,2,0,2,6,Abnormal,Middle_Aged,Medium,Low,High,No
+847,30,Male,Urgent,Diabetes,16,24,4,3,3,6,Normal,Middle_Aged,Medium,High,Medium,Yes
+944,82,Male,Elective,Infection,8,16,4,4,1,9,Abnormal,Old_Aged,High,Medium,Low,No
+733,81,Male,Elective,Injury,65,27,3,4,0,4,Unknown,Old_Aged,Medium,High,High,Yes
+95,52,Other,Urgent,Injury,78,26,1,3,1,2,Unknown,Middle_Aged,Low,High,High,Yes
+563,70,Other,Urgent,Injury,56,23,4,4,1,2,Unknown,Old_Aged,Low,High,High,No
+240,47,Male,Elective,Infection,52,15,3,3,4,1,Abnormal,Middle_Aged,Low,Medium,High,No
+742,22,Female,Elective,Injury,26,7,3,0,1,1,Unknown,Young_Aged,Low,Low,High,Yes
+574,49,Female,Elective,Heart Disease,92,17,3,0,0,7,Unknown,Middle_Aged,High,Medium,High,Yes
+690,23,Other,Elective,Injury,15,17,0,1,2,9,Unknown,Young_Aged,High,Medium,Medium,Yes
+460,83,Female,Emergency,Injury,59,19,3,4,2,6,Unknown,Old_Aged,Medium,Medium,High,Yes
+553,76,Male,Elective,Infection,6,15,1,3,4,4,Unknown,Old_Aged,Medium,Medium,Low,Yes
+888,34,Other,Elective,Diabetes,96,19,1,1,0,1,Normal,Middle_Aged,Low,Medium,High,No
+206,71,Male,Elective,Diabetes,58,14,3,3,1,4,Abnormal,Old_Aged,Medium,Medium,High,No
+392,30,Other,Urgent,Heart Disease,6,9,4,1,0,7,Unknown,Middle_Aged,High,Low,Low,No
+794,83,Other,Urgent,Diabetes,93,24,3,1,1,7,Unknown,Old_Aged,High,High,High,Yes
+397,25,Female,Elective,Injury,41,23,2,0,1,7,Abnormal,Young_Aged,High,High,High,Yes
+766,57,Male,Urgent,Injury,53,11,4,2,1,3,Unknown,Middle_Aged,Low,Medium,High,No
+848,79,Male,Urgent,Heart Disease,87,27,0,4,0,5,Normal,Old_Aged,Medium,High,High,Yes
+217,58,Male,Urgent,Injury,16,23,0,1,3,4,Abnormal,Middle_Aged,Medium,High,Medium,Yes
+4,41,Female,Urgent,Diabetes,50,25,3,4,1,3,Unknown,Middle_Aged,Low,High,High,Yes
+768,39,Male,Urgent,Infection,30,1,2,1,4,1,Normal,Middle_Aged,Low,Low,High,Yes
+642,51,Other,Urgent,Infection,6,19,1,3,1,1,Abnormal,Middle_Aged,Low,Medium,Low,No
+929,80,Other,Urgent,Heart Disease,79,12,3,1,4,9,Abnormal,Old_Aged,High,Medium,High,Yes
+612,23,Other,Elective,Heart Disease,69,3,2,1,1,5,Abnormal,Young_Aged,Medium,Low,High,No
+738,50,Other,Emergency,Infection,3,25,3,3,4,2,Unknown,Middle_Aged,Low,High,Low,No
+546,50,Female,Emergency,Diabetes,74,15,4,1,2,8,Abnormal,Middle_Aged,High,Medium,High,Yes
+725,22,Male,Emergency,Infection,69,2,0,2,2,4,Abnormal,Young_Aged,Medium,Low,High,No
+683,84,Male,Elective,Infection,73,22,1,0,3,2,Unknown,Old_Aged,Low,High,High,No
+98,20,Male,Urgent,Heart Disease,45,12,4,1,1,7,Abnormal,Young_Aged,High,Medium,High,Yes
+804,81,Other,Elective,Heart Disease,62,12,3,1,2,7,Abnormal,Old_Aged,High,Medium,High,Yes
+727,36,Male,Elective,Injury,49,15,2,0,3,9,Normal,Middle_Aged,High,Medium,High,No
+573,82,Other,Emergency,Injury,79,20,3,3,3,9,Normal,Old_Aged,High,Medium,High,Yes
+406,27,Male,Elective,Heart Disease,76,12,0,0,1,4,Unknown,Young_Aged,Medium,Medium,High,No
+502,53,Male,Urgent,Heart Disease,26,10,1,2,0,4,Unknown,Middle_Aged,Medium,Low,High,No
+47,53,Other,Emergency,Infection,81,25,4,0,0,8,Unknown,Middle_Aged,High,High,High,Yes
+32,24,Male,Urgent,Diabetes,98,35,2,1,1,5,Unknown,Young_Aged,Medium,High,High,Yes
+779,79,Other,Elective,Injury,57,4,2,4,0,7,Unknown,Old_Aged,High,Low,High,Yes
+839,37,Female,Elective,Infection,71,8,0,2,0,3,Normal,Middle_Aged,Low,Low,High,Yes
+200,26,Female,Emergency,Injury,38,23,2,1,1,4,Normal,Young_Aged,Medium,High,High,Yes
+134,20,Other,Emergency,Heart Disease,47,25,3,4,2,9,Unknown,Young_Aged,High,High,High,No
+27,68,Other,Elective,Diabetes,26,6,3,3,4,8,Unknown,Old_Aged,High,Low,High,Yes
+880,58,Other,Elective,Injury,90,1,4,4,3,1,Normal,Middle_Aged,Low,Low,High,Yes
+230,76,Male,Urgent,Diabetes,34,13,4,4,1,4,Unknown,Old_Aged,Medium,Medium,High,Yes
+489,42,Male,Urgent,Heart Disease,74,23,3,4,3,9,Normal,Middle_Aged,High,High,High,No
+772,31,Female,Urgent,Diabetes,48,6,3,3,0,5,Abnormal,Middle_Aged,Medium,Low,High,Yes
+378,52,Female,Urgent,Diabetes,20,29,1,3,4,4,Normal,Middle_Aged,Medium,High,Medium,No
+288,30,Female,Urgent,Diabetes,35,7,0,2,0,6,Normal,Middle_Aged,Medium,Low,High,No
+418,40,Other,Urgent,Infection,22,25,0,2,0,1,Unknown,Middle_Aged,Low,High,High,Yes
+674,56,Female,Elective,Infection,33,1,0,3,2,8,Normal,Middle_Aged,High,Low,High,No
+391,46,Female,Urgent,Injury,66,15,3,1,1,3,Normal,Middle_Aged,Low,Medium,High,Yes
+592,68,Female,Emergency,Heart Disease,1,24,3,3,3,8,Abnormal,Old_Aged,High,High,Low,Yes
+498,62,Male,Elective,Infection,4,24,3,0,3,2,Unknown,Old_Aged,Low,High,Low,No
+138,54,Other,Elective,Diabetes,5,14,0,1,1,1,Normal,Middle_Aged,Low,Medium,Low,No
+62,32,Other,Urgent,Infection,43,18,4,0,0,7,Unknown,Middle_Aged,High,Medium,High,Yes
+471,48,Male,Emergency,Infection,45,6,2,4,1,7,Abnormal,Middle_Aged,High,Low,High,No
+647,64,Other,Emergency,Infection,5,7,4,0,2,7,Unknown,Old_Aged,High,Low,Low,Yes
+128,47,Female,Elective,Diabetes,99,20,1,1,1,4,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+976,19,Male,Elective,Injury,86,29,0,4,4,6,Normal,Young_Aged,Medium,High,High,No
+520,45,Male,Emergency,Injury,43,12,0,4,2,8,Abnormal,Middle_Aged,High,Medium,High,No
+838,44,Male,Elective,Injury,59,15,2,2,1,3,Abnormal,Middle_Aged,Low,Medium,High,No
+962,24,Female,Emergency,Heart Disease,35,27,2,4,3,1,Abnormal,Young_Aged,Low,High,High,Yes
+64,57,Other,Elective,Infection,88,17,2,1,4,6,Unknown,Middle_Aged,Medium,Medium,High,Yes
+812,74,Male,Elective,Diabetes,2,10,2,1,4,8,Normal,Old_Aged,High,Low,Low,No
+14,38,Male,Emergency,Diabetes,56,28,3,2,1,6,Normal,Middle_Aged,Medium,High,High,No
+156,71,Male,Elective,Infection,1,26,4,2,1,9,Normal,Old_Aged,High,High,Low,Yes
+40,70,Other,Urgent,Infection,8,11,1,3,2,7,Normal,Old_Aged,High,Medium,Low,No
+492,55,Female,Urgent,Infection,50,19,4,1,4,2,Unknown,Middle_Aged,Low,Medium,High,No
+379,50,Other,Emergency,Injury,29,14,3,2,4,5,Unknown,Middle_Aged,Medium,Medium,High,Yes
+187,67,Other,Emergency,Heart Disease,40,17,3,4,1,7,Unknown,Old_Aged,High,Medium,High,No
+763,51,Other,Elective,Injury,15,29,1,0,3,8,Normal,Middle_Aged,High,High,Medium,No
+216,78,Male,Elective,Heart Disease,39,28,2,3,3,4,Abnormal,Old_Aged,Medium,High,High,No
+791,32,Male,Elective,Injury,20,3,2,3,2,5,Unknown,Middle_Aged,Medium,Low,Medium,Yes
+52,42,Female,Urgent,Injury,93,19,0,1,3,8,Normal,Middle_Aged,High,Medium,High,Yes
+878,74,Female,Elective,Infection,80,23,4,4,1,2,Unknown,Old_Aged,Low,High,High,Yes
+337,26,Other,Emergency,Diabetes,80,20,4,4,3,4,Unknown,Young_Aged,Medium,Medium,High,Yes
+748,57,Female,Emergency,Infection,56,15,0,3,0,5,Abnormal,Middle_Aged,Medium,Medium,High,No
+719,83,Male,Emergency,Infection,39,5,1,1,4,9,Normal,Old_Aged,High,Low,High,Yes
+724,61,Other,Urgent,Injury,13,25,2,0,0,8,Abnormal,Old_Aged,High,High,Medium,No
+295,82,Other,Urgent,Heart Disease,4,24,2,1,4,2,Normal,Old_Aged,Low,High,Low,No
+701,21,Male,Elective,Infection,74,6,3,4,1,5,Normal,Young_Aged,Medium,Low,High,Yes
+251,61,Other,Urgent,Diabetes,15,21,2,4,3,3,Abnormal,Old_Aged,Low,High,Medium,Yes
+726,43,Female,Urgent,Infection,26,26,4,2,2,3,Normal,Middle_Aged,Low,High,High,Yes
+461,22,Male,Emergency,Infection,22,7,3,4,3,5,Abnormal,Young_Aged,Medium,Low,High,Yes
+455,57,Other,Emergency,Diabetes,26,17,1,3,2,5,Unknown,Middle_Aged,Medium,Medium,High,Yes
+996,43,Female,Emergency,Heart Disease,61,7,0,4,0,1,Normal,Middle_Aged,Low,Low,High,No
+815,50,Other,Elective,Heart Disease,9,18,0,1,3,7,Normal,Middle_Aged,High,Medium,Low,Yes
+862,63,Female,Elective,Infection,11,6,3,3,4,2,Abnormal,Old_Aged,Low,Low,Medium,No
+269,63,Male,Emergency,Infection,3,4,2,4,3,9,Unknown,Old_Aged,High,Low,Low,Yes
+201,36,Female,Emergency,Infection,36,22,0,1,3,3,Unknown,Middle_Aged,Low,High,High,No
+161,61,Female,Urgent,Diabetes,63,6,1,3,0,7,Abnormal,Old_Aged,High,Low,High,Yes
+555,66,Male,Elective,Injury,39,23,1,0,4,9,Abnormal,Old_Aged,High,High,High,Yes
+729,29,Other,Urgent,Heart Disease,7,26,4,3,2,4,Normal,Young_Aged,Medium,High,Low,Yes
+401,75,Other,Elective,Injury,84,20,3,1,3,1,Unknown,Old_Aged,Low,Medium,High,Yes
+702,79,Male,Elective,Diabetes,40,3,0,1,2,3,Unknown,Old_Aged,Low,Low,High,Yes
+476,36,Female,Emergency,Heart Disease,36,4,2,1,0,7,Unknown,Middle_Aged,High,Low,High,Yes
+821,48,Other,Urgent,Diabetes,48,2,2,0,3,1,Normal,Middle_Aged,Low,Low,High,Yes
+771,28,Other,Emergency,Heart Disease,51,13,0,3,3,4,Unknown,Young_Aged,Medium,Medium,High,Yes
+105,59,Female,Emergency,Infection,65,8,1,3,0,1,Normal,Middle_Aged,Low,Low,High,Yes
+565,70,Female,Urgent,Injury,85,1,4,3,3,9,Unknown,Old_Aged,High,Low,High,Yes
+389,60,Male,Elective,Diabetes,74,19,2,0,4,9,Unknown,Old_Aged,High,Medium,High,No
+1,32,Female,Urgent,Diabetes,81,10,4,4,1,6,Unknown,Middle_Aged,Medium,Low,High,No
+937,27,Other,Elective,Diabetes,56,17,0,1,1,4,Abnormal,Young_Aged,Medium,Medium,High,Yes
+982,55,Male,Emergency,Heart Disease,96,5,2,2,1,2,Unknown,Middle_Aged,Low,Low,High,No
+561,22,Male,Urgent,Heart Disease,9,23,2,1,4,5,Abnormal,Young_Aged,Medium,High,Low,No
+80,52,Male,Emergency,Injury,27,20,0,1,1,1,Unknown,Middle_Aged,Low,Medium,High,Yes
+205,41,Male,Urgent,Infection,87,28,2,4,1,7,Unknown,Middle_Aged,High,High,High,Yes
+34,56,Female,Elective,Injury,43,35,3,1,2,4,Abnormal,Middle_Aged,Medium,High,High,Yes
+775,52,Male,Elective,Infection,8,5,2,3,1,1,Abnormal,Middle_Aged,Low,Low,Low,No
+508,66,Other,Emergency,Infection,42,8,1,1,0,7,Normal,Old_Aged,High,Low,High,Yes
+427,78,Other,Emergency,Infection,41,19,0,3,2,3,Normal,Old_Aged,Low,Medium,High,Yes
+454,30,Other,Elective,Diabetes,83,24,3,0,4,4,Normal,Middle_Aged,Medium,High,High,No
+366,27,Other,Elective,Heart Disease,33,28,3,2,4,2,Normal,Young_Aged,Low,High,High,Yes
+91,40,Female,Emergency,Infection,35,6,3,2,2,1,Unknown,Middle_Aged,Low,Low,High,No
+339,18,Male,Emergency,Heart Disease,97,13,2,3,4,4,Unknown,Young_Aged,Medium,Medium,High,No
+897,66,Female,Emergency,Heart Disease,94,2,0,4,0,3,Normal,Old_Aged,Low,Low,High,Yes
+564,40,Male,Elective,Heart Disease,59,16,1,2,3,8,Unknown,Middle_Aged,High,Medium,High,Yes
+345,33,Other,Elective,Infection,12,15,0,2,1,5,Normal,Middle_Aged,Medium,Medium,Medium,Yes
+776,54,Other,Emergency,Injury,22,16,0,1,4,1,Unknown,Middle_Aged,Low,Medium,High,Yes
+241,45,Other,Elective,Infection,25,15,2,2,1,2,Unknown,Middle_Aged,Low,Medium,High,Yes
+13,77,Other,Urgent,Diabetes,48,23,4,3,4,2,Unknown,Old_Aged,Low,High,High,No
+315,71,Male,Urgent,Injury,76,10,0,1,4,2,Normal,Old_Aged,Low,Low,High,Yes
+600,69,Other,Elective,Diabetes,29,12,0,3,0,3,Abnormal,Old_Aged,Low,Medium,High,No
+387,50,Female,Elective,Infection,62,17,4,1,4,2,Unknown,Middle_Aged,Low,Medium,High,No
+273,40,Other,Emergency,Injury,76,13,3,4,3,6,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+166,34,Male,Elective,Infection,24,5,3,3,0,7,Unknown,Middle_Aged,High,Low,High,No
+840,28,Other,Urgent,Diabetes,92,26,2,3,2,1,Unknown,Young_Aged,Low,High,High,No
+992,83,Male,Elective,Infection,10,23,0,2,3,1,Unknown,Old_Aged,Low,High,Low,No
+646,43,Male,Emergency,Diabetes,41,12,4,0,0,2,Abnormal,Middle_Aged,Low,Medium,High,Yes
+818,22,Female,Urgent,Infection,98,29,4,4,3,6,Unknown,Young_Aged,Medium,High,High,No
+484,56,Other,Elective,Injury,32,20,4,3,0,1,Abnormal,Middle_Aged,Low,Medium,High,Yes
+980,22,Other,Urgent,Heart Disease,24,21,2,2,3,5,Abnormal,Young_Aged,Medium,High,High,Yes
+504,37,Female,Urgent,Injury,92,16,0,4,2,9,Normal,Middle_Aged,High,Medium,High,Yes
+831,62,Male,Urgent,Injury,58,12,1,0,3,7,Normal,Old_Aged,High,Medium,High,No
+243,78,Male,Emergency,Infection,65,7,2,3,1,2,Abnormal,Old_Aged,Low,Low,High,Yes
+566,54,Female,Elective,Heart Disease,2,22,3,3,1,2,Normal,Middle_Aged,Low,High,Low,Yes
+875,70,Other,Urgent,Infection,44,9,2,0,1,3,Unknown,Old_Aged,Low,Low,High,No
+562,20,Other,Emergency,Injury,82,16,2,0,0,6,Abnormal,Young_Aged,Medium,Medium,High,Yes
+686,25,Male,Emergency,Infection,78,13,4,4,1,3,Unknown,Young_Aged,Low,Medium,High,No
+189,48,Other,Urgent,Infection,38,29,0,4,3,9,Unknown,Middle_Aged,High,High,High,Yes
+782,35,Female,Urgent,Injury,92,16,2,0,3,3,Unknown,Middle_Aged,Low,Medium,High,Yes
+699,39,Female,Elective,Diabetes,19,14,4,2,4,7,Normal,Middle_Aged,High,Medium,Medium,No
+475,56,Female,Elective,Injury,9,20,4,3,0,2,Unknown,Middle_Aged,Low,Medium,Low,Yes
+681,42,Female,Emergency,Injury,36,15,1,4,1,6,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+510,32,Female,Elective,Injury,84,16,0,3,0,6,Abnormal,Middle_Aged,Medium,Medium,High,Yes
+58,37,Male,Emergency,Diabetes,36,8,0,4,4,5,Normal,Middle_Aged,Medium,Low,High,No
+474,71,Other,Urgent,Heart Disease,49,19,1,3,1,1,Normal,Old_Aged,Low,Medium,High,Yes
+560,23,Female,Emergency,Heart Disease,37,4,2,3,3,9,Abnormal,Young_Aged,High,Low,High,No
+856,46,Female,Emergency,Infection,62,17,3,1,4,3,Abnormal,Middle_Aged,Low,Medium,High,Yes
+747,30,Male,Urgent,Injury,73,11,4,2,0,5,Unknown,Middle_Aged,Medium,Medium,High,Yes
+252,47,Female,Urgent,Injury,96,18,2,2,2,1,Unknown,Middle_Aged,Low,Medium,High,No
+21,77,Female,Emergency,Infection,89,18,4,2,4,7,Unknown,Old_Aged,High,Medium,High,No
+313,59,Male,Urgent,Diabetes,99,14,3,0,0,7,Abnormal,Middle_Aged,High,Medium,High,No
+459,44,Other,Elective,Injury,79,8,2,4,4,8,Unknown,Middle_Aged,High,Low,High,No
+160,70,Other,Emergency,Heart Disease,40,18,1,1,4,2,Abnormal,Old_Aged,Low,Medium,High,No
+276,19,Female,Emergency,Heart Disease,64,17,2,1,4,9,Abnormal,Young_Aged,High,Medium,High,Yes
+955,63,Female,Emergency,Infection,31,13,1,4,4,5,Unknown,Old_Aged,Medium,Medium,High,Yes
+191,24,Male,Urgent,Infection,61,4,1,0,4,1,Unknown,Young_Aged,Low,Low,High,Yes
+385,84,Other,Elective,Diabetes,8,16,3,3,1,9,Abnormal,Old_Aged,High,Medium,Low,Yes
+805,32,Male,Urgent,Heart Disease,4,19,2,4,3,5,Abnormal,Middle_Aged,Medium,Medium,Low,No
+413,79,Male,Urgent,Injury,80,12,4,4,4,4,Unknown,Old_Aged,Medium,Medium,High,Yes
+491,50,Male,Elective,Injury,54,14,2,4,3,5,Unknown,Middle_Aged,Medium,Medium,High,No
+343,65,Other,Urgent,Injury,5,1,3,2,4,8,Abnormal,Old_Aged,High,Low,Low,Yes
+769,77,Female,Emergency,Diabetes,57,3,3,4,0,8,Normal,Old_Aged,High,Low,High,No
+308,39,Other,Elective,Infection,80,8,4,4,1,4,Abnormal,Middle_Aged,Medium,Low,High,No
+661,19,Other,Emergency,Heart Disease,87,24,0,2,1,2,Unknown,Young_Aged,Low,High,High,No
+130,79,Female,Elective,Heart Disease,26,10,0,2,0,5,Normal,Old_Aged,Medium,Low,High,No
+663,31,Male,Elective,Diabetes,32,2,0,0,1,4,Normal,Middle_Aged,Medium,Low,High,No
+871,57,Male,Emergency,Infection,94,13,1,3,4,8,Unknown,Middle_Aged,High,Medium,High,Yes
+99,18,Male,Elective,Infection,93,8,2,1,1,6,Unknown,Young_Aged,Medium,Low,High,No
+372,41,Male,Emergency,Infection,87,22,0,4,1,9,Abnormal,Middle_Aged,High,High,High,Yes
+87,29,Female,Elective,Injury,67,13,1,0,1,3,Unknown,Young_Aged,Low,Medium,High,Yes
+458,67,Female,Emergency,Diabetes,53,2,4,1,1,3,Abnormal,Old_Aged,Low,Low,High,Yes
+330,34,Female,Elective,Infection,78,22,3,4,1,3,Normal,Middle_Aged,Low,High,High,No
+214,71,Female,Urgent,Infection,57,12,4,3,4,6,Unknown,Old_Aged,Medium,Medium,High,No
+466,82,Other,Elective,Diabetes,98,19,4,2,0,7,Abnormal,Old_Aged,High,Medium,High,Yes
+121,62,Male,Elective,Injury,93,27,4,0,2,7,Normal,Old_Aged,High,High,High,No
+614,83,Male,Emergency,Injury,68,18,3,1,1,4,Abnormal,Old_Aged,Medium,Medium,High,No
+20,59,Other,Emergency,Heart Disease,11,12,3,1,1,8,Unknown,Middle_Aged,High,Medium,Medium,No
+700,38,Male,Urgent,Injury,67,13,0,0,4,4,Unknown,Middle_Aged,Medium,Medium,High,Yes
+71,32,Male,Elective,Diabetes,22,16,4,0,3,2,Unknown,Middle_Aged,Low,Medium,High,No
+106,68,Other,Elective,Injury,1,26,0,1,0,8,Abnormal,Old_Aged,High,High,Low,Yes
+270,41,Male,Emergency,Infection,81,27,1,0,4,5,Unknown,Middle_Aged,Medium,High,High,No
+860,40,Other,Emergency,Diabetes,61,22,1,1,2,5,Normal,Middle_Aged,Medium,High,High,No
+435,69,Other,Urgent,Infection,53,21,2,1,0,8,Unknown,Old_Aged,High,High,High,Yes
+102,44,Other,Urgent,Infection,91,20,1,1,3,2,Normal,Middle_Aged,Low,Medium,High,No
